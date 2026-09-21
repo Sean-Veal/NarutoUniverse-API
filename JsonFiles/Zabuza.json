@@ -1,0 +1,155 @@
+{
+  "id": 5,
+  "name": "Zabuza Momochi",
+  "age": 26,
+  "gender": "M",
+  "rank": "Jonin",
+  "status": "Dead",
+  "description": "Zabuza Momochi, given the moniker Demon of the Hidden Mist, was a missing-nin from Kirigakure's Seven Ninja Swordsmen of the Mist.",
+  "village": {
+    "name": "Kirigakure",
+    "description": "Kirigakure (霧隠れの里, Kirigakure no Sato, English TV: Village Hidden in the Mist, literally meaning: Village Hidden by Mist) is the hidden village of the Land of Water. As the village of one of the Five Great Shinobi Countries, Kiri has a Kage as its leader known as the Mizukage, of which there have been six in its history. Befitting its name, the village is surrounded by a thick mist, with several mountains in the background, making it difficult to find by foreigners. Kirigakure's architecture is composed of several cylindrical buildings, with the Mizukage's office being the widest and largest. Most of the buildings have vegetation growing on their roofs.\nThe standard attire for Kiri shinobi revolves around a pinstriped material which the shinobi wear as bracers and greaves which merge into their sandals. Underneath this, they wear a full-black shirt and pants over which they wear the villages' standard grey flak jacket. Some also wear waist-guards. Many Kiri ninja use Water Release techniques. Due to the village's high number of missing-nin, Kiri has a subdivision of Anbu known as hunter-nin that are specifically tasked with eliminating these defectors.",
+    "country": {
+      "name": "Land of Water",
+      "description": "The Land of Water (水の国, Mizu no Kuni) also known as the \"Land of Mist\" (霧の国, Kiri no Kuni). It is composed of many islands, with each having its own unique traditions. The country's weather is typically cool and the islands are usually covered by mist. The islands themselves also feature many lakes. In some places, like the area where Haku grew up, it is very cold and snows quite a bit. The nation is oriented towards the element of water. Its government leader is the Water Daimyō.\nLittle is currently known about the country and it apparently leaves itself out of most political affairs, which is understandable considering that it is composed of vast islands relatively remote from the continent containing the other four major countries. What is known, however, is that the country used to be ravaged by many civil wars, during which clans with kekkei genkai were used extensively, causing many to view them as harbingers of war and death, leading to purges and genocide to the point of parents killing their own children. Many clans went into hiding, such as the Yuki clan. The Funato clan, one of the oldest clans of the Land of Water, has always been at odds with the country and Kirigakure in regards to their goals to pacify the seas, leading to many plunders and internal conflicts. Fifteen years after the Fourth Shinobi World War, the Land of Water grew uneasy with the Land of Waves and Land of the Sea over their continued expansion, to the point of not wanting to sign a treaty that would give them further stability, even against the wishes of Kirigakure, who would also benefit from more stability."
+    }
+  },
+  "villageStatus": "Missing-nin",
+  "clan": null,
+  "kekkeiGenkai": null,
+  "debut": [
+    {
+      "type": "Manga",
+      "entryIndex": 10,
+      "name": "The Second Critter",
+      "description": "Before the Demon Brothers can kill Naruto, Sasuke steps in and stops them. They turn their attention to Tazuna, so Sakura comes to his defence. Before the brothers can land an attack, Kakashi appears and neutralises them, having only pretended to be killed so he could see who their target was. As it becomes obvious that protecting Tazuna is going to be more complicated than the C-rank mission they were assigned, Kakashi considers going home. Naruto, angry with himself for freezing up, demands that they complete the mission no matter how complicated it may become, vowing to never step down from a challenge.",
+      "arc": {
+        "name": "Prologue — Land of Waves",
+        "description": "Prologue — Land of Waves, known as the Lands of Waves Escort Mission in the anime, is an arc from Part I of the series. This arc sees the formation of Team 7 and the completion of their first mission to the Land of Waves. It spans through volumes 1 to 4, or more specifically, covers chapters 1 to 33 of the manga and episodes 1 to 19 of the Naruto anime. This arc is followed by the Chūnin Exams."
+      }
+    },
+    {
+      "type": "Anime",
+      "entryIndex": 6,
+      "name": "A Dangerous Mission! Journey to the Land of Waves!",
+      "description": "After Team 7 successfully finds Tora, the lost cat of the Fire Daimyō's wife, they return it to her. With their mission successfully completed, the Third Hokage informs them of the available D-rank missions, such as babysitting the chief counsellor's 3-year-old. Naruto expresses that he wants to go on a real mission that's exciting and challenging. Iruka lectures him, stating that, like every beginner genin with no experience, he must start with simpler missions to develop his skills. The Third goes on to explain that a higher-ranked mission comes with greater difficulty and greater risk to the shinobi. However, Naruto exclaims that he is a ninja now and wants to be treated as such. Amused at his statement, the Third decides to give the team a C-rank mission to escort Tazuna, a master bridge builder, to the Land of Waves. When Tazuna meets the team, he expresses disbelief that kids are going to be guarding him but works with them nonetheless.\nAs they make their way to the Land of Waves, two chūnin-level Kiri-nin emerge from a puddle and bind Kakashi with shuriken-laced chains, before pulling and ripping him apart. With Kakashi \"defeated\", the duo turns their attention to Naruto, who freezes up. Before they can land an attack, Sasuke intervenes and saves Naruto. The duo split up, leaving one behind as the other charges at Tazuna. Sakura steps in front of Tazuna to defend him before Sasuke appears in front of her to aid. Before anything further can happen, Kakashi appears and effortlessly defeats the duo, though Naruto does attain a small scratch from one of their Metal Gauntlets, which contained poison. It is revealed that Kakashi used the Body Replacement Technique to escape the duo's initial attack, suspecting an ambush when he discovered their puddle on a clear day. Kakashi compliments Sasuke and Sakura for their courage but expresses disappointment in Naruto for how poorly he handled the situation. Tazuna questions why Kakashi took so long to help, with the latter explaining that he could have defeated them quickly but needed to know who their target was. Kakashi points out that their target was Tazuna, and that if had he told them he would be hunted by ninja, the mission would have been a B-rank or higher, and a different team would have been assigned. Sakura suggests they quit the mission, not only due to the greater difficulty but because of Naruto's wound. Unwilling to jeopardise the mission, Naruto decides to take out a kunai and uses it to remove the poison from his hand. He then makes an oath that he will never run away or back down from any mission, threat, or enemy, and that he will not lose to Sasuke. After this, Kakashi bandages Naruto's wound so he doesn't bleed out, but discovers that it had already begun to heal due to the Nine-Tailed Demon Fox.\n\nElsewhere, Gatō, the man who hired the Demon Brothers to eliminate Tazuna, complains about their failure to Zabuza, the duo's apparent boss. Zabuza raises his Kubikiribōchō at Gatō to shut him up and says he will handle it himself. Gatō informs him that they will be expecting another assault and that a high-level ninja is accompanying Tazuna. This doesn't faze Zabuza, who just replies that he is the \"Demon of the Hidden Mist\".",
+      "arc": {
+        "name": "Prologue — Land of Waves",
+        "description": "Prologue — Land of Waves, known as the Lands of Waves Escort Mission in the anime, is an arc from Part I of the series. This arc sees the formation of Team 7 and the completion of their first mission to the Land of Waves. It spans through volumes 1 to 4, or more specifically, covers chapters 1 to 33 of the manga and episodes 1 to 19 of the Naruto anime. This arc is followed by the Chūnin Exams."
+      }
+    }
+  ],
+  "chakraNatures": [
+    {
+      "name": "Water",
+      "description": "Water Release jutsu are most easily performed using existing water sources, such as lakes or rivers. Users can also create water within their bodies with chakra, which they expel from their mouths, though this is generally regarded as a testament of skill; Tobirama Senju's ability to produce his own water is noted to be proof of his position as Hokage. Water Release is typically used offensively, doing battering damage because of the sheer volume of water or slicing damage because of the water's high pressure. Water Release can be used to trap targets, such as imprisoning them with dense water or ensnaring them with sticky water. Defensively, Water Formation Wall is a common option, with users surrounding themselves with water to be protected from harm. Alternatively, users can hide themselves from opponents with thick mist to obscure vision or water droplets to render the user invisible.\n\nWater Release is common among ninja of Kirigakure, with the Water Clone Technique being one of the village's trademark techniques. Various Kiri-nin utilise Water Release in characteristic ways: Kisame Hoshigaki frequently shapes his water into sharks, such as the Water Shark Bullet; members of the Hōzuki clan use the Hydrification Technique to turn their bodies into water, such as to alter their body or shoot it from their hands; Utakata uses Soap Bubble Ninjutsu, which he employs for various purposes.\n\nWater Release is naturally strong against Fire Release and weak against Earth Release. If Water Release is used with Wind Release, as with the Typhoon Water Vortex Technique, the wind churns the water, increasing its damage and coverage area. If Water Release is used with Lightning Release, the water can increase the range of the lightning, or the lightning can give the water a numbing quality; in Sasuke Shinden, Sasuke Uchiha purifies all his Water Release in order to minimise its conductivity of lightning. When Water Release is combined with other natures, certain kekkei genkai are produced: water and wind make Ice Release; water and earth make Wood Release; water and lightning make Storm Release; water and fire make Boil Release; in Akatsuki Hiden, water and earth also make Mud Release."
+    }
+  ],
+  "jutsu": [
+    {
+      "name": "Hiding in Mist Technique",
+      "classification": [
+        {
+          "name": "Ninjutsu",
+          "description": "Ninjutsu is one of the three main jutsu categories. Ninjutsu is the most nebulous of the three, and may most simply be described as anything that is not genjutsu or taijutsu. Most ninjutsu require chakra and hand seals, but this is not always the case since the mere usage of weaponry qualifies as ninjutsu. The huge range of ninjutsu's uses is illustrated by its several sub-classifications: medical ninjutsu, reincarnation ninjutsu, space–time ninjutsu, barrier ninjutsu, sealing jutsu, cursed seal jutsu and sensory ninjutsu.\nMost ninjutsu use shape transformation, which deals with controlling the form and movement of the ninjutsu, while nature transformation deals with changing the ninjutsu's physical properties. Ninjutsu that use nature transformation tend to follow a naming convention of their nature type followed by a more specific name. With practice and experience, certain ninjutsu can become second nature to a ninja, allowing them to perform it at will."
+        }
+      ],
+      "creator": null,
+      "rank": "D-Rank",
+      "class": ["Supplementary"],
+      "description": "This technique is a specialty of Kirigakure ninja. Users fill the air with mist and control its thickness with their chakra. Once the mists are thick enough that opponents cannot see, that in turn means they cannot manage much defence against the user. Zabuza Momochi famously used this technique to perform assassinations; although he also could not see within the mists, he was able to locate his targets based only on the sounds they made. The mists can be created using water from the surroundings, or users can create the mists themselves, which they exhale from their mouths. If the mists are made thick enough, they can cancel out the enhanced vision of the Sharingan and Rinnegan. In the anime, Byakugan users are able to see through the mists. Sensors also can still find targets despite the lost visibility.",
+      "debut": [
+        {
+          "type": "Manga",
+          "entryIndex": 12,
+          "name": "This is the End!!",
+          "description": "Knowing that Zabuza will be a tough opponent, Kakashi uncovers his Sharingan eye. Intending to defeat the famous \"Kakashi of the Sharingan\", Zabuza coats the area in a thick mist so that he can attempt to kill Tazuna without anyone noticing. As Zabuza appears within Team 7's ranks and prepares to strike Tazuna, Kakashi stops him. This Zabuza turns out to be a water clone, and another Zabuza quickly attacks Kakashi. This Kakashi is also a water clone, having used his Sharingan to copy Zabuza's technique.",
+          "arc": {
+            "name": "Prologue — Land of Waves",
+            "description": "Prologue — Land of Waves, known as the Lands of Waves Escort Mission in the anime, is an arc from Part I of the series. This arc sees the formation of Team 7 and the completion of their first mission to the Land of Waves. It spans through volumes 1 to 4, or more specifically, covers chapters 1 to 33 of the manga and episodes 1 to 19 of the Naruto anime. This arc is followed by the Chūnin Exams."
+          }
+        },
+        {
+          "type": "Anime",
+          "entryIndex": 7,
+          "name": "The Assassin of the Mist!",
+          "description": "Team 7 is on a motorboat, owned by Kaji, headed towards the Land of Waves. Kakashi threatens to abandon the mission if Tazuna does not provide an adequate explanation for lying about the mission's difficulty level. He tells them that an extremely wealthy businessman called Gatō was responsible for his country's struggles and could not afford any high-ranked missions. Later, as they are walking, Kakashi suddenly tells everyone to duck just before a giant sword spins over them, and a ninja appears on its handle. The ninja identifies himself as Zabuza Momochi, a missing-nin from Kirigakure. He demands to have Tazuna, to which Kakashi refuses.\nKakashi’s forced to use his Sharingan, and Sasuke immediately recognises it, explaining, along with Zabuza, that Sharingan is a dōjutsu that can immediately see and anticipate all ninjutsu and genjutsu. Sasuke’s confused, though, as only members of his clan wielded it. Zabuza then summons a thick veil of mist, and Kakashi informs his team to protect Tazuna. The tension between the two jōnin causes Sasuke to have a panic attack, but Kakashi is able to calm him down. Zabuza prepares to strike the group with his sword, but Kakashi races toward them just in time. He stabs Zabuza with his kunai, but it’s revealed he merely used a water clone. In turn, Zabuza slices Kakashi in half, who also turns out to be a clone. Appearing behind him, Kakashi catches Zabuza off guard, holding a kunai to his throat.",
+          "arc": {
+            "name": "Prologue — Land of Waves",
+            "description": "Prologue — Land of Waves, known as the Lands of Waves Escort Mission in the anime, is an arc from Part I of the series. This arc sees the formation of Team 7 and the completion of their first mission to the Land of Waves. It spans through volumes 1 to 4, or more specifically, covers chapters 1 to 33 of the manga and episodes 1 to 19 of the Naruto anime. This arc is followed by the Chūnin Exams."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Water Prison Technique",
+      "classification": [
+        {
+          "name": "Ninjutsu",
+          "description": "Ninjutsu is one of the three main jutsu categories. Ninjutsu is the most nebulous of the three, and may most simply be described as anything that is not genjutsu or taijutsu. Most ninjutsu require chakra and hand seals, but this is not always the case since the mere usage of weaponry qualifies as ninjutsu. The huge range of ninjutsu's uses is illustrated by its several sub-classifications: medical ninjutsu, reincarnation ninjutsu, space–time ninjutsu, barrier ninjutsu, sealing jutsu, cursed seal jutsu and sensory ninjutsu.\nMost ninjutsu use shape transformation, which deals with controlling the form and movement of the ninjutsu, while nature transformation deals with changing the ninjutsu's physical properties. Ninjutsu that use nature transformation tend to follow a naming convention of their nature type followed by a more specific name. With practice and experience, certain ninjutsu can become second nature to a ninja, allowing them to perform it at will."
+        }
+      ],
+      "creator": null,
+      "rank": "C-Rank",
+      "class": ["Supplementary"],
+      "description": "This technique traps a target in a sphere of water; the water can either be drawn from the surroundings or expelled from the user's mouth. The water that the sphere is made from is noticeably heavy, which restricts the target's movements and can make breathing difficult. As such, those trapped within the water prison cannot ordinarily escape on their own. Neji Hyūga was able to free himself by simultaneously releasing chakra from all of his tenketsu, destroying the prison. In Akatsuki Hiden, Kisame Hoshigaki escaped by increasing the volume of water within the prison beyond what it could contain, causing it to burst.\nIn order to maintain the prison, users must stay in contact with the sphere, typically by keeping an arm submerged within it. For this reason, water clones can be used in combination with water prisons, either by having the water clone attack other targets while the user maintains the prison, or by having the clones themselves form the prisons, leaving the user free to act. In cases where a water clone forms the water prison, the water of the clone's body can be used as a source for the prison. In the anime, this contact is shown to not be necessary, allowing users to trap targets from a distance, and can draw in other people to trap upon contact with it.\n\nThe water prison's usefulness has caused it to be adapted for other purposes. It can be stored in scrolls, trapping anyone who tries to read their contents without permission. Alternatively, users can confine themselves within a water prison, thus preventing opponents from reaching them.",
+      "debut": [
+        {
+          "type": "Manga",
+          "entryIndex": 13,
+          "name": "I'm a Ninja!!",
+          "description": "As Kakashi holds Zabuza at knife point, Zabuza reveals that it is just another water clone. The real Zabuza appears and kicks Kakashi into a nearby lake, where he proceeds to trap Kakashi with his Water Prison Technique. Because he must remain with Kakashi to maintain the prison, Zabuza creates another water clone to deal with Tazuna and the rest of Team 7. Kakashi instructs them to flee, but Naruto, remembering his earlier vow to not run away from difficult situations, attacks the water clone.",
+          "arc": {
+            "name": "Prologue — Land of Waves",
+            "description": "Prologue — Land of Waves, known as the Lands of Waves Escort Mission in the anime, is an arc from Part I of the series. This arc sees the formation of Team 7 and the completion of their first mission to the Land of Waves. It spans through volumes 1 to 4, or more specifically, covers chapters 1 to 33 of the manga and episodes 1 to 19 of the Naruto anime. This arc is followed by the Chūnin Exams."
+          }
+        },
+        {
+          "type": "Anime",
+          "entryIndex": 8,
+          "name": "The Oath of Pain",
+          "description": "With Kakashi captured in Zabuza's Water Prison Technique, Naruto, Sasuke, and Sakura are forced to defend against Zabuza's attacks. Kakashi tells them to run. Naruto instinctively moves to flee, but feels the pain in his hand and remembers his oath. He decides to fight to save Kakashi and keep Tazuna alive, rushing forward and retrieving his forehead protector from under Zabuza's foot. He tells Sasuke that he has a plan, and uses his Shadow Clone Technique to completely surround Zabuza's clone. With one swing of his sword, most of Naruto's clones scatter and disappear. The remaining Naruto passes a Fūma Shuriken to Sasuke, who senses his teammate's plan. Sasuke uses the Shadow Shuriken Technique, throwing two shuriken at Zabuza. Zabuza easily catches the first shuriken but only dodges the second at the last moment. Once past him, the second shuriken transforms back into Naruto, who had disguised himself to trick the superior ninja. Naruto throws a kunai at Zabuza that forces him to break his technique, freeing Kakashi from his prison.",
+          "arc": {
+            "name": "Prologue — Land of Waves",
+            "description": "Prologue — Land of Waves, known as the Lands of Waves Escort Mission in the anime, is an arc from Part I of the series. This arc sees the formation of Team 7 and the completion of their first mission to the Land of Waves. It spans through volumes 1 to 4, or more specifically, covers chapters 1 to 33 of the manga and episodes 1 to 19 of the Naruto anime. This arc is followed by the Chūnin Exams."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Water Release: Water Dragon Bullet Technique",
+      "classification": [
+        {
+          "name": "Ninjutsu",
+          "description": "Ninjutsu is one of the three main jutsu categories. Ninjutsu is the most nebulous of the three, and may most simply be described as anything that is not genjutsu or taijutsu. Most ninjutsu require chakra and hand seals, but this is not always the case since the mere usage of weaponry qualifies as ninjutsu. The huge range of ninjutsu's uses is illustrated by its several sub-classifications: medical ninjutsu, reincarnation ninjutsu, space–time ninjutsu, barrier ninjutsu, sealing jutsu, cursed seal jutsu and sensory ninjutsu.\nMost ninjutsu use shape transformation, which deals with controlling the form and movement of the ninjutsu, while nature transformation deals with changing the ninjutsu's physical properties. Ninjutsu that use nature transformation tend to follow a naming convention of their nature type followed by a more specific name. With practice and experience, certain ninjutsu can become second nature to a ninja, allowing them to perform it at will."
+        }
+      ],
+      "creator": null,
+      "rank": "B-Rank",
+      "class": ["Offensive"],
+      "description": "The user moulds water into the shape of a dragon, which they then direct at a target. The water crashes upon the target, dealing significant physical damage. Ideally, users will use pre-existing bodies of water for this technique, but sufficiently skilled users can instead create the water themselves, spitting the dragon from their mouths. The more talented the user, the greater the amount of water that the dragon can be made from.",
+      "debut": [
+        {
+          "type": "Manga",
+          "entryIndex": 15,
+          "name": "The Sharingan Revived!!",
+          "description": "Zabuza is forced to release Kakashi in order to avoid Naruto's attack. Enraged by Naruto's actions, Zabuza tries to attack him, but is stopped by Kakashi. Kakashi congratulates Team 7 on their success and promises to start pulling his own weight. Zabuza attacks Kakashi with his Water Release: Water Dragon Bullet Technique, and Kakashi instantly copies it with his Sharingan. As the two identical techniques collide, Zabuza prepares another attack, only to realise that Kakashi is mimicking everything he does. Kakashi attacks with Zabuza's own Water Release: Great Waterfall Technique, something Zabuza had only been thinking of doing. After landing the attack Kakashi prepares to finish off Zabuza, but a masked boy beats him to it, seemingly to kill Zabuza.",
+          "arc": {
+            "name": "Prologue — Land of Waves",
+            "description": "Prologue — Land of Waves, known as the Lands of Waves Escort Mission in the anime, is an arc from Part I of the series. This arc sees the formation of Team 7 and the completion of their first mission to the Land of Waves. It spans through volumes 1 to 4, or more specifically, covers chapters 1 to 33 of the manga and episodes 1 to 19 of the Naruto anime. This arc is followed by the Chūnin Exams."
+          }
+        },
+        {
+          "type": "Anime",
+          "entryIndex": 9,
+          "name": "Kakashi: Sharingan Warrior!",
+          "description": "Naruto's strategy and teamwork with Sasuke is a success, and Zabuza is forced to break his hold on Kakashi to avoid their attack. Saved from Zabuza's Water Prison Technique, Kakashi attacks his enemy with multiple water techniques copied from Zabuza using his Sharingan. Zabuza becomes agitated seeing his own techniques used against him, and Kakashi easily defeats him. Before Kakashi can deliver the finishing blow, Zabuza is seemingly killed by a young hunter-nin from Kirigakure. Naruto is angry and jealous that someone so young could easily defeat an opponent that gave Team 7 so much trouble, but Kakashi says that there are many ninja younger than Naruto yet stronger than himself. The hunter-nin leaves with Zabuza's body, and Kakashi collapses from exhaustion due to the overuse of his Sharingan.",
+          "arc": {
+            "name": "Prologue — Land of Waves",
+            "description": "Prologue — Land of Waves, known as the Lands of Waves Escort Mission in the anime, is an arc from Part I of the series. This arc sees the formation of Team 7 and the completion of their first mission to the Land of Waves. It spans through volumes 1 to 4, or more specifically, covers chapters 1 to 33 of the manga and episodes 1 to 19 of the Naruto anime. This arc is followed by the Chūnin Exams."
+          }
+        }
+      ]
+    }
+  ]
+}

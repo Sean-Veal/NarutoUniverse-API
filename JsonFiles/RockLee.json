@@ -1,0 +1,154 @@
+{
+  "id": 7,
+  "name": "Rock Lee",
+  "age": 17,
+  "gender": "M",
+  "rank": "Chuunin",
+  "status": "Alive",
+  "description": "Rock Lee is a shinobi of Konohagakure's Lee clan and a member of Team Guy. Unlike most shinobi, he lacked the skills necessary to use ninjutsu or genjutsu. However, he overcomes those shortcomings by undergoing special training from Might Guy that would make him a taijutsu master while still a genin.",
+  "village": {
+    "name": "Konohagakure",
+    "description": "Konohagakure (木ノ葉隠れの里, Konohagakure no Sato, English TV: \"Village Hidden in the Leaves\" or \"Hidden Leaf Village\", literally meaning: Village Hidden by Tree Leaves) is the hidden village of the Land of Fire. As the village of one of the Five Great Shinobi Countries, Konohagakure has a Kage as its leader known as the Hokage, of which there have been seven in its history. Konoha resides deep within a forest at the base of a mountain known as the Hokage Rock, which has the faces of all those who have taken the office of Hokage engraved on it. The largest of all villages in the shinobi world, it is surrounded on all sides by enormous walls. While generally seen as the most powerful of the ninja villages, possessing the greatest military force in the Land of Fire. Konoha has enjoyed many years of relative peace and stability.",
+    "country": {
+      "name": "Land of Fire",
+      "description": "The Land of Fire is one of the largest and most powerful countries seen, and is the home of the main characters of the series. Its government leader is the Fire Daimyō. The Land of Fire was the first country to adopt a ninja village, Konohagakure, a custom other countries would soon adopt. The Land of Fire is appropriately oriented towards the element of fire, typically having very bright and warm weather. While not the physically largest country, it has the largest hidden village."
+    }
+  },
+  "villageStatus": "Loyal",
+  "clan": null,
+  "kekkeiGenkai": null,
+  "debut": [
+    {
+      "type": "Manga",
+      "entryIndex": 36,
+      "name": "Sakura's Depression!!",
+      "description": "Kakashi informs Team 7 that they have the opportunity to enter the Chūnin Exams. He gives any and all of them the choice not to participate before leaving. Although Naruto and Sasuke are enthusiastic, Sakura is worried that she will not be able to keep up with the other competitors. Nevertheless, Team 7 heads to the sign-up location together the next day and finds the members of Team Guy being bullied by two genin. Recognising that things are not as they seem, Sasuke begins to fight one of the genin but they are stopped by Rock Lee, a member of Team Guy who had only moments earlier appeared defenceless. Lee asks Sakura to be his girlfriend, but she turns him down before leaving. The two genin, actually chūnin in disguise, remark that this exam's competitors seem promising. Lee follows Team 7 to challenge Sasuke.",
+      "arc": {
+        "name": "Chūnin Exams",
+        "description": "The Chūnin Exams, known as the Chūnin Exams Preliminaries and the Chūnin Exams Finals in the anime, is an arc from Part I of the series. This arc sees Team 7's entrance into the Chūnin Exams and the introduction of such characters as the rest of the Rookie Nine, Team Guy, Three Sand Siblings and Orochimaru. It spans through volumes 4-13, or more specifically, covers chapters 34 to 115 of the manga and episodes 20 to 67 of the Naruto anime. This arc is preceded by Prologue — Land of Waves and followed by Konoha Crush."
+      }
+    },
+    {
+      "type": "Anime",
+      "entryIndex": 21,
+      "name": "Identify Yourself: Powerful New Rivals",
+      "description": "As the Three Sand Siblings are introduced, Gaara scolds Kankurō for his abuse of the kids. Gaara then apologises to Sasuke for Kankurō's behaviour. The three are ninja from Sunagakure and they come here in Konoha for the Chūnin Exams. Another team watches unseen from a tree nearby. The Third Hokage asks Kakashi, Asuma and Kurenai to step forward and recommend any Genin they believe to be fit to take the Chūnin Exams. Iruka thinks that the rookies need more time, and that there is no way that any of them will be recommended. However, all three jōnin recommend their students which shocks Iruka greatly. Iruka challenges their decision, as he believes Naruto and the others are not ready for the exam. They however stand by their decision and the Hokage agrees, but only after Kakashi reminds Iruka they are no longer his students, but ninja under his command. The next morning Kakashi gives Team 7 the application forms for the Chūnin Exams. Both Sasuke and Naruto accept, but Sakura is uncertain. Later, all three of Team 7 are attacked by a mysterious ninja from a different village. Moegi is captured by a mysterious ninja, and is seen tied up and gagged with a cloth. Naruto eventually saves her, but the mysterious ninja escapes. Sakura is taken in by his genjutsu but quickly figures it out. Despite this she is still uncertain about the exam. Sasuke easily defeats the ninja, telling him to stay out of Konohagakure. The ninja is revealed to be Iruka in disguise. He reports back to Kakashi, confirming they all passed his test. Inside the school registration for the exam is taking place, but two shinobi bar the way warning all the genin about the exam. An altercation nearly takes place but Rock Lee steps in and diffuses the situation, which surprises Sasuke. Rock Lee later goes after Sasuke and challenges him to a duel.",
+      "arc": {
+        "name": "Chūnin Exams",
+        "description": "The Chūnin Exams, known as the Chūnin Exams Preliminaries and the Chūnin Exams Finals in the anime, is an arc from Part I of the series. This arc sees Team 7's entrance into the Chūnin Exams and the introduction of such characters as the rest of the Rookie Nine, Team Guy, Three Sand Siblings and Orochimaru. It spans through volumes 4-13, or more specifically, covers chapters 34 to 115 of the manga and episodes 20 to 67 of the Naruto anime. This arc is preceded by Prologue — Land of Waves and followed by Konoha Crush."
+      }
+    }
+  ],
+  "chakraNatures": [],
+  "jutsu": [
+    {
+      "name": "Leaf Whirlwind",
+      "classification": [
+        {
+          "name": "Taijutsu",
+          "description": "Taijutsu (体術, literally meaning: Body Techniques), also known as \"Ninja Kata\" (忍者組み手, Ninja Kumite)[1][2] is a basic form of techniques and refers to any techniques involving the martial arts or the optimisation of natural human abilities. Taijutsu is executed by directly accessing the user's physical and mental energies, relying on the stamina and strength gained through training. It typically does not require chakra, though chakra may be used to enhance its techniques. Taijutsu generally requires no hand seals to perform, occasionally making use of certain stances or poses, and are far quicker to use than ninjutsu or genjutsu. Taijutsu is, simply put, hand-to-hand combat.\nAlthough it is used by nearly all shinobi, only a few of them use it as their primary fighting style like Rock Lee and his teacher Might Guy for example, who are experts of many taijutsu techniques. Example of taijutsu techniques are Dynamic Entry and Leaf Whirlwind. The Hyūga clan's Gentle Fist, however, makes extensive use of chakra and demands great skill in its control. The taijutsu techniques are the right choices for those that want to save their time and chakra, or for those who rely on their physical attributes. It can also be used uniquely in collaboration with ninjutsu to create nintaijutsu techniques. The Shikotsumyaku is said to be the ultimate taijutsu ability, due to the produced bones can be used to augment offensive and defensive powers in versatile ways. Killer B's unique style of taijutsu combined with kenjutsu is called Disturbance Taijutsu (攪乱体術, Kakuran Taijutsu, literally meaning: Disturbance Body Technique) and used through Acrobat."
+        }
+      ],
+      "creator": null,
+      "rank": "D-Rank",
+      "class": ["Offensive"],
+      "description": "The user delivers a series of high and low kicks, each of which is fast enough that even the Sharingan can't react to them. When Rock Lee performs it against Sasuke Uchiha, he starts with a backwards high kick using his left foot, the motion of which then helps him deliver a low kick with his right. Although the first kick is damaging on its own, it's primarily intended as a distraction, forcing Sasuke to block it and thus rendering him vulnerable to the second kick.\nWhen Lee uses Leaf Whirlwind against Kimimaro, he performs it more akin to Dynamic Entry.",
+      "debut": [
+        {
+          "type": "Manga",
+          "entryIndex": 37,
+          "name": "The Worst Compatibility…!!",
+          "description": "Naruto, angry that Lee only wants to fight Sasuke, tries to prove himself by attacking Lee. He is quickly defeated. Impressed by Lee's abilities, Sasuke agrees to fight him. When he is left unable to keep up with Lee's movements, Sasuke suspects it is some sort of ninjutsu or genjutsu and so activates his Sharingan. Because Lee is using taijutsu, the Sharingan does not help since Sasuke lacks the physical training to replicate Lee's attacks. Lee prepares to use his Front Lotus on Sasuke but is stopped by Ningame.",
+          "arc": {
+            "name": "Chūnin Exams",
+            "description": "The Chūnin Exams, known as the Chūnin Exams Preliminaries and the Chūnin Exams Finals in the anime, is an arc from Part I of the series. This arc sees Team 7's entrance into the Chūnin Exams and the introduction of such characters as the rest of the Rookie Nine, Team Guy, Three Sand Siblings and Orochimaru. It spans through volumes 4-13, or more specifically, covers chapters 34 to 115 of the manga and episodes 20 to 67 of the Naruto anime. This arc is preceded by Prologue — Land of Waves and followed by Konoha Crush."
+          }
+        },
+        {
+          "type": "Anime",
+          "entryIndex": 22,
+          "name": "Chūnin Challenge: Rock Lee vs. Sasuke!",
+          "description": "Sasuke has attracted the attention of Rock Lee, who challenges him to a fight. Lee is not only interested in seeing how his skills match up against a descendant of the Uchiha clan, but he also has a crush on Sakura, much to her dismay. Feeling neglected in his teammates shadows, Naruto offers to fight in Sasuke's place. Without wasting time, he charges at Lee, but is easily knocked unconscious. Lee explains they simply cannot beat him, as he is the strongest of the Konohagakure genin right now.\nFinally interested, Sasuke accepts his challenge, and attacks. He’s instantly met with Lee's Leaf Whirlwind and goes flying backwards. Getting back up, Sasuke prepares, resorting to his Sharingan to figure out Lee's technique this time. Again, this is futile and Lee explains it’s because his techniques are neither ninjutsu or genjutsu, but mere taijutsu, also known as martial arts. With hand-to-hand combat, the Sharingan isn't helpful, even if he can see the techniques, one’s body cannot move fast enough to react. Lee uses the Shadow of the Dancing Leaf to kick off his next move in order to finish off Sasuke, but a large turtle stops him before he carries this out.\n\nThe turtle seemingly reprimands Lee for using a forbidden technique, leaving Naruto to think the turtle is Lee's sensei. Might Guy, his actual sensei, appears on top of the turtle and punches Lee across the face as punishment, proceeding to hug him, and cry afterward. Team 7 are dumbstruck, and Sasuke can't believe he was beaten by what he perceives as a freak. Guy asks the team how his eternal rival, Kakashi, is doing. He's ahead in their match record, which stands at 50 wins and 49 losses. Guy also says that he is much faster and stronger than Kakashi.\n\nWhen Guy leaves, Lee confesses that he is not the strongest genin - Neji Hyūga, his teammate is. Naruto needles Sasuke, saying that Lee obviously trains harder than him. In the end, the team focuses their attention on the Chūnin Exams.",
+          "arc": {
+            "name": "Chūnin Exams",
+            "description": "The Chūnin Exams, known as the Chūnin Exams Preliminaries and the Chūnin Exams Finals in the anime, is an arc from Part I of the series. This arc sees Team 7's entrance into the Chūnin Exams and the introduction of such characters as the rest of the Rookie Nine, Team Guy, Three Sand Siblings and Orochimaru. It spans through volumes 4-13, or more specifically, covers chapters 34 to 115 of the manga and episodes 20 to 67 of the Naruto anime. This arc is preceded by Prologue — Land of Waves and followed by Konoha Crush."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Shadow of the Dancing Leaf",
+      "classification": [
+        {
+          "name": "Taijutsu",
+          "description": "Taijutsu (体術, literally meaning: Body Techniques), also known as \"Ninja Kata\" (忍者組み手, Ninja Kumite)[1][2] is a basic form of techniques and refers to any techniques involving the martial arts or the optimisation of natural human abilities. Taijutsu is executed by directly accessing the user's physical and mental energies, relying on the stamina and strength gained through training. It typically does not require chakra, though chakra may be used to enhance its techniques. Taijutsu generally requires no hand seals to perform, occasionally making use of certain stances or poses, and are far quicker to use than ninjutsu or genjutsu. Taijutsu is, simply put, hand-to-hand combat.\nAlthough it is used by nearly all shinobi, only a few of them use it as their primary fighting style like Rock Lee and his teacher Might Guy for example, who are experts of many taijutsu techniques. Example of taijutsu techniques are Dynamic Entry and Leaf Whirlwind. The Hyūga clan's Gentle Fist, however, makes extensive use of chakra and demands great skill in its control. The taijutsu techniques are the right choices for those that want to save their time and chakra, or for those who rely on their physical attributes. It can also be used uniquely in collaboration with ninjutsu to create nintaijutsu techniques. The Shikotsumyaku is said to be the ultimate taijutsu ability, due to the produced bones can be used to augment offensive and defensive powers in versatile ways. Killer B's unique style of taijutsu combined with kenjutsu is called Disturbance Taijutsu (攪乱体術, Kakuran Taijutsu, literally meaning: Disturbance Body Technique) and used through Acrobat."
+        }
+      ],
+      "creator": null,
+      "rank": "C-Rank",
+      "class": ["Supplementary"],
+      "description": "The user moves close behind a target and carefully matches their movements, following them in the same way that a leaf is followed by its shadow. Simply mimicking a target in this way does no harm to them, but it's useful as a setup for other techniques, such as the Front Lotus or the Lion Combo. The tracking technique boosts the accuracy of the follow-up move. Because of how difficult it can be to use this technique, most genin are unlikely to be talented enough to perform it.",
+      "debut": [
+        {
+          "type": "Manga",
+          "entryIndex": 37,
+          "name": "The Worst Compatibility…!!",
+          "description": "Naruto, angry that Lee only wants to fight Sasuke, tries to prove himself by attacking Lee. He is quickly defeated. Impressed by Lee's abilities, Sasuke agrees to fight him. When he is left unable to keep up with Lee's movements, Sasuke suspects it is some sort of ninjutsu or genjutsu and so activates his Sharingan. Because Lee is using taijutsu, the Sharingan does not help since Sasuke lacks the physical training to replicate Lee's attacks. Lee prepares to use his Front Lotus on Sasuke but is stopped by Ningame.",
+          "arc": {
+            "name": "Chūnin Exams",
+            "description": "The Chūnin Exams, known as the Chūnin Exams Preliminaries and the Chūnin Exams Finals in the anime, is an arc from Part I of the series. This arc sees Team 7's entrance into the Chūnin Exams and the introduction of such characters as the rest of the Rookie Nine, Team Guy, Three Sand Siblings and Orochimaru. It spans through volumes 4-13, or more specifically, covers chapters 34 to 115 of the manga and episodes 20 to 67 of the Naruto anime. This arc is preceded by Prologue — Land of Waves and followed by Konoha Crush."
+          }
+        },
+        {
+          "type": "Anime",
+          "entryIndex": 22,
+          "name": "Chūnin Challenge: Rock Lee vs. Sasuke!",
+          "description": "Sasuke has attracted the attention of Rock Lee, who challenges him to a fight. Lee is not only interested in seeing how his skills match up against a descendant of the Uchiha clan, but he also has a crush on Sakura, much to her dismay. Feeling neglected in his teammates shadows, Naruto offers to fight in Sasuke's place. Without wasting time, he charges at Lee, but is easily knocked unconscious. Lee explains they simply cannot beat him, as he is the strongest of the Konohagakure genin right now.\nFinally interested, Sasuke accepts his challenge, and attacks. He’s instantly met with Lee's Leaf Whirlwind and goes flying backwards. Getting back up, Sasuke prepares, resorting to his Sharingan to figure out Lee's technique this time. Again, this is futile and Lee explains it’s because his techniques are neither ninjutsu or genjutsu, but mere taijutsu, also known as martial arts. With hand-to-hand combat, the Sharingan isn't helpful, even if he can see the techniques, one’s body cannot move fast enough to react. Lee uses the Shadow of the Dancing Leaf to kick off his next move in order to finish off Sasuke, but a large turtle stops him before he carries this out.\n\nThe turtle seemingly reprimands Lee for using a forbidden technique, leaving Naruto to think the turtle is Lee's sensei. Might Guy, his actual sensei, appears on top of the turtle and punches Lee across the face as punishment, proceeding to hug him, and cry afterward. Team 7 are dumbstruck, and Sasuke can't believe he was beaten by what he perceives as a freak. Guy asks the team how his eternal rival, Kakashi, is doing. He's ahead in their match record, which stands at 50 wins and 49 losses. Guy also says that he is much faster and stronger than Kakashi.\n\nWhen Guy leaves, Lee confesses that he is not the strongest genin - Neji Hyūga, his teammate is. Naruto needles Sasuke, saying that Lee obviously trains harder than him. In the end, the team focuses their attention on the Chūnin Exams.",
+          "arc": {
+            "name": "Chūnin Exams",
+            "description": "The Chūnin Exams, known as the Chūnin Exams Preliminaries and the Chūnin Exams Finals in the anime, is an arc from Part I of the series. This arc sees Team 7's entrance into the Chūnin Exams and the introduction of such characters as the rest of the Rookie Nine, Team Guy, Three Sand Siblings and Orochimaru. It spans through volumes 4-13, or more specifically, covers chapters 34 to 115 of the manga and episodes 20 to 67 of the Naruto anime. This arc is preceded by Prologue — Land of Waves and followed by Konoha Crush."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Reverse Lotus",
+      "classification": [
+        {
+          "name": "Taijutsu",
+          "description": "Taijutsu (体術, literally meaning: Body Techniques), also known as \"Ninja Kata\" (忍者組み手, Ninja Kumite)[1][2] is a basic form of techniques and refers to any techniques involving the martial arts or the optimisation of natural human abilities. Taijutsu is executed by directly accessing the user's physical and mental energies, relying on the stamina and strength gained through training. It typically does not require chakra, though chakra may be used to enhance its techniques. Taijutsu generally requires no hand seals to perform, occasionally making use of certain stances or poses, and are far quicker to use than ninjutsu or genjutsu. Taijutsu is, simply put, hand-to-hand combat.\nAlthough it is used by nearly all shinobi, only a few of them use it as their primary fighting style like Rock Lee and his teacher Might Guy for example, who are experts of many taijutsu techniques. Example of taijutsu techniques are Dynamic Entry and Leaf Whirlwind. The Hyūga clan's Gentle Fist, however, makes extensive use of chakra and demands great skill in its control. The taijutsu techniques are the right choices for those that want to save their time and chakra, or for those who rely on their physical attributes. It can also be used uniquely in collaboration with ninjutsu to create nintaijutsu techniques. The Shikotsumyaku is said to be the ultimate taijutsu ability, due to the produced bones can be used to augment offensive and defensive powers in versatile ways. Killer B's unique style of taijutsu combined with kenjutsu is called Disturbance Taijutsu (攪乱体術, Kakuran Taijutsu, literally meaning: Disturbance Body Technique) and used through Acrobat."
+        },
+        {
+          "name": "Kinjutsu",
+          "description": "Kinjutsu (禁術, literally meaning: Forbidden Techniques) are techniques that have been banned from being taught or used. The term first came into use following the end of the Warring States Period, when the newly-formed hidden villages agreed to forbid certain kinds of techniques in the interests of reducing unnecessary bloodshed and maintaining the peace. Although the hidden villages no longer teach kinjutsu to their ninja, they have preserved the knowledge of how to perform them: in Konohagakure, instructions for the Multiple Shadow Clone Technique are detailed in the Scroll of Seals; Takigakure \"prized\" the Earth Grudge Fear, but it was stolen by Kakuzu; Deidara similarly stole the kinjutsu used with his Explosive Clay from Iwagakure; Sunagakure actively promoted creation of what became One's Own Life Reincarnation under Chiyo's research, but halted all research once it became apparent the technique would qualify as kinjutsu."
+        }
+      ],
+      "creator": null,
+      "rank": "A-rank",
+      "class": ["Offensive"],
+      "description": "The user first opens at least three of the Eight Gates, removing their body's limitations on their maximum speed. Once this is done, the user - who is so fast that it's difficult to follow their movements - continually strikes the target from multiple directions, pummelling them into the air. When Rock Lee uses Reverse Lotus on Gaara, Gaara's Shield of Sand is unable to react fast enough to protect him. As Lee attacks Gaara, he gradually wraps Gaara with the bandages he wears, allowing him to better manoeuvre Gaara to deliver a finishing blow that sends him crashing back to the ground.\nLee was taught the Reverse Lotus by his idol, Might Guy, with the understanding that it would be an attack of last resort, used only in dire circumstances. This is because opening any of the Eight Gates places a huge strain on the user's body, likely exhausting their body beyond the point of moving or even remaining conscious afterwards. Ordinarily this shouldn't be an immediate problem, because the Reverse Lotus's innumerable initial attacks as well as the power of its finishing blow will likely defeat most opponents. But if the opponent is able to endure the Reverse Lotus, the user will be at their mercy.",
+      "debut": [
+        {
+          "type": "Manga",
+          "entryIndex": 86,
+          "name": "A Splendid Ninja…!!",
+          "description": "Lee attacks Gaara with his Reverse Lotus. Gaara turns the gourd on his back into sand at the last moment, acting as a shield that absorbs most of the impact. With Lee unable to move after the attack, Gaara, using his sand, methodically breaks Lee's limbs as punishment for thinking he could defeat him. Since Lee is unable to defend himself, Guy steps in. Confused that Guy would come to Lee's aid, Gaara relents and is declared the winner. However, although Lee has lost consciousness, he stands to continue the fight. Seeing Lee's continuing wish to prove his skills, Guy is moved to tears.",
+          "arc": {
+            "name": "Chūnin Exams",
+            "description": "The Chūnin Exams, known as the Chūnin Exams Preliminaries and the Chūnin Exams Finals in the anime, is an arc from Part I of the series. This arc sees Team 7's entrance into the Chūnin Exams and the introduction of such characters as the rest of the Rookie Nine, Team Guy, Three Sand Siblings and Orochimaru. It spans through volumes 4-13, or more specifically, covers chapters 34 to 115 of the manga and episodes 20 to 67 of the Naruto anime. This arc is preceded by Prologue — Land of Waves and followed by Konoha Crush."
+          }
+        },
+        {
+          "type": "Anime",
+          "entryIndex": 50,
+          "name": "The Fifth Gate: A Splendid Ninja is Born",
+          "description": "Lee's speed proves too much for Gaara, and his sand is no longer able to form a shield fast enough to be of use. Lee opens the Fifth Gate, and uses his most powerful attack, Reverse Lotus. Gaara survives this final blow due to him softening his fall by turning his gourd into sand, and uses the sand to crush Lee's left arm and leg. Gaara moves his sand to finish Lee, but Guy jumps in to protect his student. Lee, although unconscious due to the pain, rises to continue the battle, his desire to win fuels his broken body. Guy weeps at Lee's dedication, and Lee is taken away to recover. The medical ninja announce that Lee's injuries are too severe to be completely healed, and that he will never be able to fight as a ninja again. Guy regrets teaching Lee such dangerous techniques, and vacates the ring for the final match between Chōji Akimichi and Dosu Kinuta.",
+          "arc": {
+            "name": "Chūnin Exams",
+            "description": "The Chūnin Exams, known as the Chūnin Exams Preliminaries and the Chūnin Exams Finals in the anime, is an arc from Part I of the series. This arc sees Team 7's entrance into the Chūnin Exams and the introduction of such characters as the rest of the Rookie Nine, Team Guy, Three Sand Siblings and Orochimaru. It spans through volumes 4-13, or more specifically, covers chapters 34 to 115 of the manga and episodes 20 to 67 of the Naruto anime. This arc is preceded by Prologue — Land of Waves and followed by Konoha Crush."
+          }
+        }
+      ]
+    }
+  ]
+}

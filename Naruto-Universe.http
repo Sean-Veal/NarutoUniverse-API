@@ -1,0 +1,6 @@
+@Naruto_Universe_HostAddress = http://localhost:5250
+
+GET {{Naruto_Universe_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

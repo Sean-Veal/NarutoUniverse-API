@@ -1,0 +1,166 @@
+{
+  "id": 3,
+  "name": "Sakura Haruno",
+  "age": 17,
+  "gender": "F",
+  "rank": "Chuunin",
+  "status": "Alive",
+  "description": "Sakura Haruno (うちはサクラ, Uchiha Sakura, née Haruno (春野)) is a kunoichi of Konohagakure. When assigned to Team 7, she quickly found herself ill-prepared for the duties of a shinobi. However, after training under the legendary Sannin Tsunade, Sakura overcomes her weaknesses and becomes recognised as one of the greatest medical-nin in the world. Following the Fourth Shinobi World War, she joined the Uchiha Clan by marrying Sasuke Uchiha. Later on, she became the Head of the Konoha Medical Department and a medical ninjutsu teacher.",
+  "village": {
+    "name": "Konohagakure",
+    "description": "Konohagakure (木ノ葉隠れの里, Konohagakure no Sato, English TV: \"Village Hidden in the Leaves\" or \"Hidden Leaf Village\", literally meaning: Village Hidden by Tree Leaves) is the hidden village of the Land of Fire. As the village of one of the Five Great Shinobi Countries, Konohagakure has a Kage as its leader known as the Hokage, of which there have been seven in its history. Konoha resides deep within a forest at the base of a mountain known as the Hokage Rock, which has the faces of all those who have taken the office of Hokage engraved on it. The largest of all villages in the shinobi world, it is surrounded on all sides by enormous walls. While generally seen as the most powerful of the ninja villages, possessing the greatest military force in the Land of Fire. Konoha has enjoyed many years of relative peace and stability.",
+    "country": {
+      "name": "Land of Fire",
+      "description": "The Land of Fire is one of the largest and most powerful countries seen, and is the home of the main characters of the series. Its government leader is the Fire Daimyō. The Land of Fire was the first country to adopt a ninja village, Konohagakure, a custom other countries would soon adopt. The Land of Fire is appropriately oriented towards the element of fire, typically having very bright and warm weather. While not the physically largest country, it has the largest hidden village."
+    }
+  },
+  "villageStatus": "Loyal",
+  "clan": null,
+  "kekkeiGenkai": null,
+  "debut": [
+    {
+      "type": "Manga",
+      "entryIndex": 3,
+      "name": "Sasuke Uchiha!!",
+      "description": "Naruto Uzumaki, having finally passed his graduation exam, heads to the ninja academy to be put into three man squads. He ends up paired with Sakura Haruno, a girl Naruto has a crush on, and Sasuke Uchiha, the person Naruto considers to be his rival. After Sakura shows disappointment at being paired with Naruto, and only happy about being paired with Sasuke, Naruto devises a plan. During lunch Naruto ambushes Sasuke and ties him up, then uses the Transformation Technique to turn into Sasuke. Approaching Sakura as Sasuke, Naruto goes about finding what she thinks of him. Interrupted by having to go to the bathroom (right before he can get a kiss from Sakura), Sasuke manages to get free. Sasuke passes Sakura and she pesters him about their time together a few moments earlier. She then goes about insulting Naruto, and makes fun of him having no parents. Sasuke retorts angrily, saying she makes him sick. Deciding she has been too mean to Naruto, she decides she should try and be nicer to him from now on.",
+      "arc": {
+        "name": "Prologue — Land of Waves",
+        "description": "Prologue — Land of Waves, known as the Lands of Waves Escort Mission in the anime, is an arc from Part I of the series. This arc sees the formation of Team 7 and the completion of their first mission to the Land of Waves. It spans through volumes 1 to 4, or more specifically, covers chapters 1 to 33 of the manga and episodes 1 to 19 of the Naruto anime. This arc is followed by the Chūnin Exams."
+      }
+    },
+    {
+      "type": "Anime",
+      "entryIndex": 1,
+      "name": "Enter: Naruto Uzumaki!",
+      "description": "Once upon a time, the Nine-Tailed Demon Fox devastated the shinobi village of Konohagakure, and was only stopped when the village's leader, the Fourth Hokage, gave up his life to seal it within the body of an infant. Twelve years later, a young orphan boy named Naruto Uzumaki regularly pulls pranks and is constantly causing trouble around the village. The villagers dislike him for it, but having no parents or friends, Naruto craves even negative attention.\n\nOne day, Naruto paints all over the Hokage Monument, leading to the current village leader, the Third Hokage, to come and see. Naruto is eventually brought back to class at the Academy by his teacher, Iruka Umino. At class, Iruka has each student perform the Transformation Technique in preparation for the class's final exam tomorrow, but Naruto instead uses the Sexy Technique.\n\nAfter class, Iruka has Naruto clean up his earlier mess, before deciding to treat Naruto to ramen later that night. There, Iruka asks why Naruto would perform the prank, and Naruto announces his own plans to become Hokage, even though he is incapable of performing even the most basic of techniques. At the final exam, Naruto is unable to use the Clone Technique and Iruka subsequently fails him. Afterwards, a more sympathetic instructor, Mizuki, tells him an apparent secret, while the Third Hokage talks to Iruka about how Iruka also lost his parents in the Nine-Tails attack, and that he relates to Naruto that way.\n\nThat night, Naruto manages to steal the Scroll of Seals, believing that if he can learn one of its secret techniques, he will finally be allowed to continue on to the ranks of the ninja. After successfully stealing the scroll, a search is placed on Naruto, and he is caught by Iruka after only learning one technique. Realising that Naruto has been tricked, Iruka protects him from Mizuki's attack, Mizuki planning to take the scroll for himself.\n\nTo sway Naruto to his side, Mizuki tells Naruto the truth: Naruto is the boy that had the Nine-Tails sealed inside of him, and that a decree was placed preventing anyone from talking about it, barring Naruto from learning about it. He goes on to explain that the villagers hate him for the monster he contains and that Iruka, his parents having been killed by the Nine-Tails, must hate him the most. Mizuki attempts to kill Naruto, but Iruka blocks the attack, revealing his own past to Naruto. Overwhelmed, Naruto flees into the woods.\n\nIruka and Mizuki confront each other while Naruto listens behind a tree. Mizuki berates Iruka, claiming Naruto will use the scroll to get revenge. Iruka says this is not the case as he does not blame Naruto for the beast's actions, before acknowledging him as his friend. Having finally made a friend, Naruto reveals himself and uses his newly mastered Multiple Shadow Clone Technique to defeat Mizuki, while the Third Hokage calls off the search. Amazed by the complicated technique Naruto has learned, Iruka officially makes Naruto a ninja in training and puts faith in him becoming Hokage.",
+      "arc": {
+        "name": "Prologue — Land of Waves",
+        "description": "Prologue — Land of Waves, known as the Lands of Waves Escort Mission in the anime, is an arc from Part I of the series. This arc sees the formation of Team 7 and the completion of their first mission to the Land of Waves. It spans through volumes 1 to 4, or more specifically, covers chapters 1 to 33 of the manga and episodes 1 to 19 of the Naruto anime. This arc is followed by the Chūnin Exams."
+      }
+    }
+  ],
+  "chakraNatures": [],
+  "jutsu": [
+    {
+      "name": "Chakra Enhanced Strength",
+      "classification": [
+        {
+          "name": "Taijutsu",
+          "description": "Taijutsu (体術, literally meaning: Body Techniques), also known as \"Ninja Kata\" (忍者組み手, Ninja Kumite) is a basic form of techniques and refers to any techniques involving the martial arts or the optimisation of natural human abilities. Taijutsu is executed by directly accessing the user's physical and mental energies, relying on the stamina and strength gained through training. It typically does not require chakra, though chakra may be used to enhance its techniques. Taijutsu generally requires no hand seals to perform, occasionally making use of certain stances or poses, and are far quicker to use than ninjutsu or genjutsu. Taijutsu is, simply put, hand-to-hand combat.\nAlthough it is used by nearly all shinobi, only a few of them use it as their primary fighting style like Rock Lee and his teacher Might Guy for example, who are experts of many taijutsu techniques. Example of taijutsu techniques are Dynamic Entry and Leaf Whirlwind. The Hyūga clan's Gentle Fist, however, makes extensive use of chakra and demands great skill in its control. The taijutsu techniques are the right choices for those that want to save their time and chakra, or for those who rely on their physical attributes. It can also be used uniquely in collaboration with ninjutsu to create nintaijutsu techniques. The Shikotsumyaku is said to be the ultimate taijutsu ability, due to the produced bones can be used to augment offensive and defensive powers in versatile ways. Killer B's unique style of taijutsu combined with kenjutsu is called Disturbance Taijutsu (攪乱体術, Kakuran Taijutsu, literally meaning: Disturbance Body Technique) and used through Acrobat."
+        },
+        {
+          "name": "Fighting Style",
+          "description": "A \"fighting style\" is the characteristic ability upon which most or even all of a shinobi's jutsu are based. In the case of taijutsu users, their fighting style dictates their stance in combat and how they strike their opponents; examples include the Strong Fist and Gentle Fist. In the case of ninjutsu users, their fighting style is a cornerstone to all their tactics and by which they are most easily identified; examples include Sai's Super Beast Imitating Drawing and Konan's Dance of the Shikigami. Ninjutsu users' fighting styles may alternatively be defined by what tool or resource they most commonly employ rather than a single ability; examples include Gaara's sand or the Inuzuka clan's ninken partners."
+        }
+      ],
+      "creator": null,
+      "rank": null,
+      "class": ["Offensive"],
+      "description": "A special type of taijutsu that uses the refined chakra control and concentration required in medical ninjutsu to enhance one's strength to monstrous levels. This is done by storing chakra into one's hands or feet, and releasing it onto the target with pinpoint timing. With this strength, the user can decimate the ground or even kill opponents with a single strike. The training for this application is quite arduous, as Tsunade repeatedly came at Sakura Haruno with full force to help her learn.",
+      "debut": [
+        {
+          "type": "Manga",
+          "entryIndex": 156,
+          "name": "The Deal",
+          "description": "Angered by Orochimaru's words, Shizune attacks him. Kabuto blocks her attack. Tsunade tells her to calm down and then proceeds to decimate the wall behind her, a warning for Orochimaru not to mock her again. She tells them to leave but Orochimaru offers to revive her two loved ones if she will heal his arms. Finally interested, Tsunade asks what he would do if regained use of his arms. He responds that he would destroy Konoha.",
+          "arc": {
+            "name": "Search For Tsunade",
+            "description": "Search for Tsunade is an arc from Part I of the series. This arc sees the first appearance of Akatsuki as well as the competing attempts of Jiraiya and Orochimaru to recruit Tsunade. It spans through volumes 16 to 19, or more specifically, covers chapters 139 to 171 of the manga and episodes 81 to 100 of the Naruto anime. This arc is preceded by the Konoha Crush. In the manga, it is followed by the Sasuke Recovery Mission, while in the anime, it is followed by the Land of Tea Escort Mission."
+          }
+        },
+        {
+          "type": "Anime",
+          "entryIndex": 89,
+          "name": "An Impossible Choice: The Pain Within Tsunade's Heart",
+          "description": "Naruto is tasked with combining the spinning and the power developed in the previous steps, something that Jiraiya cannot help him with. As he attempts to do both, Orochimaru asks Tsunade to heal his arms, as the Third Hokage's sealing of them has been bringing him excruciating pain and making them unusable, leaving him unable to use techniques. Although she has no intentions of helping Orochimaru due to his killing the Third, Orochimaru offers to revive her dead brother, Nawaki, and lover, Dan.",
+          "arc": {
+            "name": "Search For Tsunade",
+            "description": "Search for Tsunade is an arc from Part I of the series. This arc sees the first appearance of Akatsuki as well as the competing attempts of Jiraiya and Orochimaru to recruit Tsunade. It spans through volumes 16 to 19, or more specifically, covers chapters 139 to 171 of the manga and episodes 81 to 100 of the Naruto anime. This arc is preceded by the Konoha Crush. In the manga, it is followed by the Sasuke Recovery Mission, while in the anime, it is followed by the Land of Tea Escort Mission."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Creation Rebirth",
+      "classification": [
+        {
+          "name": "Ninjutsu",
+          "description": "Ninjutsu is one of the three main jutsu categories. Ninjutsu is the most nebulous of the three, and may most simply be described as anything that is not genjutsu or taijutsu. Most ninjutsu require chakra and hand seals, but this is not always the case since the mere usage of weaponry qualifies as ninjutsu. The huge range of ninjutsu's uses is illustrated by its several sub-classifications: medical ninjutsu, reincarnation ninjutsu, space–time ninjutsu, barrier ninjutsu, sealing jutsu, cursed seal jutsu and sensory ninjutsu.\nMost ninjutsu use shape transformation, which deals with controlling the form and movement of the ninjutsu, while nature transformation deals with changing the ninjutsu's physical properties. Ninjutsu that use nature transformation tend to follow a naming convention of their nature type followed by a more specific name. With practice and experience, certain ninjutsu can become second nature to a ninja, allowing them to perform it at will."
+        },
+        {
+          "name": "Kinjutsu",
+          "description": "Kinjutsu (禁術, literally meaning: Forbidden Techniques) are techniques that have been banned from being taught or used. The term first came into use following the end of the Warring States Period, when the newly-formed hidden villages agreed to forbid certain kinds of techniques in the interests of reducing unnecessary bloodshed and maintaining the peace. Although the hidden villages no longer teach kinjutsu to their ninja, they have preserved the knowledge of how to perform them: in Konohagakure, instructions for the Multiple Shadow Clone Technique are detailed in the Scroll of Seals; Takigakure \"prized\" the Earth Grudge Fear, but it was stolen by Kakuzu; Deidara similarly stole the kinjutsu used with his Explosive Clay from Iwagakure; Sunagakure actively promoted creation of what became One's Own Life Reincarnation under Chiyo's research, but halted all research once it became apparent the technique would qualify as kinjutsu."
+        },
+        {
+          "name": "Medical Ninjutsu",
+          "description": "Medical ninjutsu (医療忍術, Iryō Ninjutsu, literally meaning: Medical Ninja Techniques) is a branch of ninjutsu associated with healing, as well as the manipulation of their own, or another's body, practised by shinobi categorised as \"medical-nin\". The use of medical ninjutsu requires very advanced chakra control, as well as extensive knowledge on such things as herbs, medicines, the human body and even poisons.\nThe knowledge of medical ninjutsu can be used for a variety of purposes apart from simply healing. It can be used to create poisonous gas, deranging the target's nervous system, or directly attacking a target with chakra scalpels. Tsunade, renowned as the greatest medical-nin in the world, was able to apply the extreme chakra control required for medical ninjutsu to create chakra-enhanced strength, an ability she taught to her student, Sakura Haruno."
+        },
+        {
+          "name": "Regeneration Techniques",
+          "description": "Regeneration Techniques (再生術, Saiseijutsu) are ninjutsu that allows the user to heal their bodies from damage incurred. Depending on the strength of the techniques, some may be even powerful enough to purge the body of poison. Some regeneration techniques may be an application of medical ninjutsu onto the user's own bodies, while others may be gathering a huge amount of chakra to repair the body.\n\nA potential drawback to regeneration techniques (at least those confirmed to work in such a way) is that the body's cells are limited to how many times they can divide themselves in one's lifetime, and by accelerating that division to recreate lost limbs and organs, one is basically shortening their lifespan. Certain techniques of extreme destructive power, such as the True Fire of Samadhi and Destruction Beam are capable of overwhelming regeneration techniques.\n\nSome regeneration techniques can be used to extend one's lifespan, but the full effectiveness of all such methods have never been displayed.\n\nThe cells of Hashirama Senju possess an immense Regeneration Ability that requires no hand seals, and seem to possess some capacity to extend one's lifespan. Once Madara Uchiha used a tree crafted from Hashirama's cells as part of a method to continue living beyond his natural lifespan, and after reincarnating with the cells integrated into his bory along with becoming the Jinchūriki of the Ten-Tails, he elevated this regenerative power to the point of a form of \"immortality\", able to survive even from bisection at his waist."
+        }
+      ],
+      "creator": null,
+      "rank": "S-rank",
+      "class": ["Supplementary"],
+      "description": "The Creation Rebirth was invented by Tsunade with the resolution to protect the lives of her comrades. By releasing a large amount of chakra at once, the body's cell division is forcibly stimulated. Whenever the body's tissues are damaged or an organ is destroyed, the injury will instantly heal regardless of the severity. So long as Creation Rebirth remains active, the user cannot die, earning it recognition as the \"pinnacle of medical ninjutsu\" and the \"ultimate regeneration technique\".\nCreation Rebirth does not repair the old cells, instead hastening the creation of new ones through division. Because a body's cells can only split a certain number of times, the user shortens their natural lifespan whenever this technique is used.",
+      "debut": [
+        {
+          "type": "Manga",
+          "entryIndex": 169,
+          "name": "Risking One's Life…!!",
+          "description": "Having inflicted a fatal injury upon Tsunade, Orochimaru asks why she would give her life to protect Naruto. Tsunade, shaking at the sight of her own blood, responds that it was to protect Konoha, as Naruto will someday be its Hokage. Orochimaru scoffs at the title, saying that Hokage is for fools who want to die. Reminded of what she said to Naruto a week earlier, Tsunade tells him that she will now be one of those fools, accepting the position of Fifth Hokage for herself. Orochimaru delivers a finishing blow and then tries to do the same to Naruto, but Tsunade again blocks the attack. She overcomes her fear of blood and counterattacks, throwing him back and healing her injuries with Creation Rebirth. With the battle escalating, the Sannin each perform their largest summon.",
+          "arc": {
+            "name": "Search For Tsunade",
+            "description": "Search for Tsunade is an arc from Part I of the series. This arc sees the first appearance of Akatsuki as well as the competing attempts of Jiraiya and Orochimaru to recruit Tsunade. It spans through volumes 16 to 19, or more specifically, covers chapters 139 to 171 of the manga and episodes 81 to 100 of the Naruto anime. This arc is preceded by the Konoha Crush. In the manga, it is followed by the Sasuke Recovery Mission, while in the anime, it is followed by the Land of Tea Escort Mission."
+          }
+        },
+        {
+          "type": "Anime",
+          "entryIndex": 95,
+          "name": "The Fifth Hokage! A Life on the Line!",
+          "description": "Despite trying to heal himself after being hit with the Rasengan, Kabuto's wounds are too extensive for him to deal with and he collapses. However, he manages to have torn the muscles surrounding Naruto's heart, causing Naruto to begin dying. Tsunade does what she can, determined to save him. Her efforts work, and Naruto regains consciousness long enough to claim the necklace he has won. After he falls asleep, Tsunade puts the necklace around his neck, hoping that he will some day become Hokage. Orochimaru, recognising Naruto as a potential future threat, tries to kill him. Tsunade, determined to make sure Naruto becomes Hokage, overcomes her fear of blood and uses herself as a human shield to block the attack. When asked why she would risk her life to save him, Tsunade replies that it is her duty as the Fifth Hokage, finally accepting the role she was offered. She then unleashes the seal on her forehead and uses a regenerative technique that heals her of her injuries. Intending to eliminate Orochimaru once and for all, Tsunade prepares to summon Katsuyu. Jiraiya and Kabuto both recognise the technique she is about to use, and the two quickly summon Gamabunta and Manda.",
+          "arc": {
+            "name": "Search For Tsunade",
+            "description": "Search for Tsunade is an arc from Part I of the series. This arc sees the first appearance of Akatsuki as well as the competing attempts of Jiraiya and Orochimaru to recruit Tsunade. It spans through volumes 16 to 19, or more specifically, covers chapters 139 to 171 of the manga and episodes 81 to 100 of the Naruto anime. This arc is preceded by the Konoha Crush. In the manga, it is followed by the Sasuke Recovery Mission, while in the anime, it is followed by the Land of Tea Escort Mission."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Strength of a Hundred Seal",
+      "classification": [
+        {
+          "name": "Fūinjutsu",
+          "description": "Fūinjutsu (封印術, English TV: Sealing Jutsu, literally meaning: Sealing Techniques) are a type of jutsu that seal objects, living beings, chakra, along with a wide variety of other things within another object, usually using sealing formula (封印式, fūin-shiki). Fūinjutsu can also be used to restrict movement or unseal objects either from within something or someone.\nThe presence of a seal is marked by the appearance of formations of technique formulae, kanji, or else other kinds of symbols (likewise with Summoning Techniques).\n\nA unison of barrier ninjutsu and fūinjutsu is referred to as a \"Sealing Barrier\" (封印結界, Fūin Kekkai).\n\nIn a similar fashion to genjutsu, fūinjutsu can be undone by combining specific seals with a Fūinjutsu: Release (封印術・解, Fūinjutsu: Kai, literally meaning: Sealing Technique: Release) command."
+        }
+      ],
+      "creator": null,
+      "rank": "S-Rank",
+      "class": ["Supplementary"],
+      "description": "The Strength of a Hundred Seal is a jutsu from the Sage of Six Paths era, that requires extremely delicate chakra control. By storing a vast amounts of chakra over an extended period of time into a specific point on their body — usually the forehead — the user creates this seal, which manifests in the form of a rhombus-like marking. Once the seal is formed, the user's already impressive chakra control allows them to perform techniques without any wasted energy. When released, the seal will either spread across the user's face or wrap around their entire body. The stored chakra is then released into their body, greatly amplifying the power of their techniques. The seal will permanently remain in the centre of the user's forehead, presumably so that the user can keep on benefiting from its effects.\nThis seal is also symbiotically linked to the summon Katsuyu, to either perform widespread healing of people, or communicating with the slug over long distances. That is to say: the power of the techniques used by Katsuyu, is directly proportional to the reserves of the seal. By releasing the power of their seals, Tsunade and Sakura were able to combine its power with the Creation Rebirth technique in order to gain access to the Ninja Art Creation Rebirth — Strength of a Hundred Technique.",
+      "debut": [
+        {
+          "type": "Manga",
+          "entryIndex": 153,
+          "name": "The Searchers!!",
+          "description": "The mark on Naruto's hand is meant to give him a focal point for his chakra output, concentrating the Rasengan's strength on one specific point rather than dissipating it over a larger area. This does little to help him. Meanwhile, Orochimaru is in agony from the seal placed on him by the Third Hokage. With Kabuto unable to do anything for him, they decide to go looking for Tsunade. Kabuto tells him that she is in Tanzaku Quarters, which Jiraiya also finds out in the course of his own investigation. In Tanzaku, Tsunade, a gambler with terrible luck, hits a winning streak, which causes her great concern.",
+          "arc": {
+            "name": "Search For Tsunade",
+            "description": "Search for Tsunade is an arc from Part I of the series. This arc sees the first appearance of Akatsuki as well as the competing attempts of Jiraiya and Orochimaru to recruit Tsunade. It spans through volumes 16 to 19, or more specifically, covers chapters 139 to 171 of the manga and episodes 81 to 100 of the Naruto anime. This arc is preceded by the Konoha Crush. In the manga, it is followed by the Sasuke Recovery Mission, while in the anime, it is followed by the Land of Tea Escort Mission."
+          }
+        },
+        {
+          "type": "Anime",
+          "entryIndex": 88,
+          "name": "Focal Point: The Mark of the Leaf",
+          "description": "Back in Otogakure, Orochimaru is in immense pain after having the use of his arms taken away by the Third Hokage. He sends Kabuto to locate Tsunade, a famed medical-nin who might be able to heal his arms. After managing to locate her, Kabuto and Orochimaru head out.\n\nAfter Naruto struggles with the second step of his training, Jiraiya helps him by drawing a spiral on his palm to give him a point to concentrate his efforts on. Naruto recalls Iruka sensei's words of advice regarding concentration from his childhood, and he changes the spiral on his palm to that of a leaf. He then focuses a lot of chakra into that point of concentration; the process causes the balloon to burst, but also for Naruto to go flying backwards, paving the dirt. He is stopped by Jiraiya, who notices that the amount of chakra used managed to burn Naruto's hands. Impressed, he tells Naruto that he has passed the second stage. Naruto is eager to begin the third, but Jiraiya tells him that for now, they must continue on their journey, for he has managed to locate Tsunade. Elsewhere, Tsunade, an avid and extremely unlucky gambler, hits a winning streak, leading her to believe something bad is about to happen. As she tries to leave the city with Shizune and Tonton, she is met by Orochimaru and Kabuto, who greet her by summoning snakes and destroying the castle she was walking past.",
+          "arc": {
+            "name": "Search For Tsunade",
+            "description": "Search for Tsunade is an arc from Part I of the series. This arc sees the first appearance of Akatsuki as well as the competing attempts of Jiraiya and Orochimaru to recruit Tsunade. It spans through volumes 16 to 19, or more specifically, covers chapters 139 to 171 of the manga and episodes 81 to 100 of the Naruto anime. This arc is preceded by the Konoha Crush. In the manga, it is followed by the Sasuke Recovery Mission, while in the anime, it is followed by the Land of Tea Escort Mission."
+          }
+        }
+      ]
+    }
+  ]
+}

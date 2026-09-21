@@ -1,0 +1,165 @@
+{
+  "id": 2,
+  "name": "Sasuke Uchiha",
+  "age": 17,
+  "gender": "M",
+  "rank": "Genin",
+  "status": "Alive",
+  "description": "Sasuke Uchiha (うちはサスケ, Uchiha Sasuke) is one of the last surviving members of Konohagakure's Uchiha clan and a reincarnation and descendant of Indra Ōtsutsuki. After his older brother, Itachi, slaughtered their clan, Sasuke made it his mission in life to avenge them by killing Itachi. He is added to Team 7 upon becoming a Shinobi, and, through competition with his rival and best friend, Naruto Uzumaki, Sasuke starts developing his skills but eventually grows dissatisfied with his progress. He defects from Konoha so that he can acquire the strength needed to exact his revenge and master the Cursed Seal of Heaven. His years of seeking vengeance and the actions that followed became increasingly demanding, irrational, and isolated from others, leading him to be branded as an international criminal. After learning the truth of his brother's sacrifice, later proving instrumental in ending the Fourth Shinobi World War, and being happily redeemed by Naruto, Sasuke decides to return to Konoha and dedicate his life to help protect the village and its inhabitants, becoming referred to as the \"Supporting Kage\"",
+  "village": {
+    "name": "Konohagakure",
+    "description": "Konohagakure (木ノ葉隠れの里, Konohagakure no Sato, English TV: \"Village Hidden in the Leaves\" or \"Hidden Leaf Village\", literally meaning: Village Hidden by Tree Leaves) is the hidden village of the Land of Fire. As the village of one of the Five Great Shinobi Countries, Konohagakure has a Kage as its leader known as the Hokage, of which there have been seven in its history. Konoha resides deep within a forest at the base of a mountain known as the Hokage Rock, which has the faces of all those who have taken the office of Hokage engraved on it. The largest of all villages in the shinobi world, it is surrounded on all sides by enormous walls. While generally seen as the most powerful of the ninja villages, possessing the greatest military force in the Land of Fire. Konoha has enjoyed many years of relative peace and stability.",
+    "country": {
+      "name": "Land of Fire",
+      "description": "The Land of Fire is one of the largest and most powerful countries seen, and is the home of the main characters of the series. Its government leader is the Fire Daimyō. The Land of Fire was the first country to adopt a ninja village, Konohagakure, a custom other countries would soon adopt. The Land of Fire is appropriately oriented towards the element of fire, typically having very bright and warm weather. While not the physically largest country, it has the largest hidden village."
+    }
+  },
+  "villageStatus": "Missing-nin",
+  "clan": {
+    "name": "Uchiha Clan",
+    "description": "The Uchiha Clan is a well-known clan of Konohagakure, reputed to be the village's strongest because of their Sharingan and natural battle prowess. After helping found Konoha decades ago, the Uchiha grew increasingly isolated from the village's affairs, culminating in most of their deaths during the Uchiha Clan Downfall."
+  },
+  "kekkeiGenkai": {
+    "name": "Rinnegan",
+    "description": "The Rinnegan (輪廻眼, literally meaning: Saṃsāra Eye) is reputed as the most exalted eye amongst the \"Three Great Dōjutsu\", the others being the Sharingan and the Byakugan, and the strongest dōjutsu. It is said that in times of disorder, one who wields the Rinnegan is sent down from the heavens to become either a \"God of Creation\" who will calm the world or a \"God of Destruction\" who will reduce everything to nothingness. The Rinnegan is characterised by concentric circles covering the eyeball."
+  },
+  "debut": [
+    {
+      "type": "Manga",
+      "entryIndex": 3,
+      "name": "Sasuke Uchiha!!",
+      "description": "Naruto Uzumaki, having finally passed his graduation exam, heads to the ninja academy to be put into three man squads. He ends up paired with Sakura Haruno, a girl Naruto has a crush on, and Sasuke Uchiha, the person Naruto considers to be his rival. After Sakura shows disappointment at being paired with Naruto, and only happy about being paired with Sasuke, Naruto devises a plan. During lunch Naruto ambushes Sasuke and ties him up, then uses the Transformation Technique to turn into Sasuke. Approaching Sakura as Sasuke, Naruto goes about finding what she thinks of him. Interrupted by having to go to the bathroom (right before he can get a kiss from Sakura), Sasuke manages to get free. Sasuke passes Sakura and she pesters him about their time together a few moments earlier. She then goes about insulting Naruto, and makes fun of him having no parents. Sasuke retorts angrily, saying she makes him sick. Deciding she has been too mean to Naruto, she decides she should try and be nicer to him from now on.",
+      "arc": {
+        "name": "Prologue — Land of Waves",
+        "description": "Prologue — Land of Waves, known as the Lands of Waves Escort Mission in the anime, is an arc from Part I of the series. This arc sees the formation of Team 7 and the completion of their first mission to the Land of Waves. It spans through volumes 1 to 4, or more specifically, covers chapters 1 to 33 of the manga and episodes 1 to 19 of the Naruto anime. This arc is followed by the Chūnin Exams."
+      }
+    },
+    {
+      "type": "Anime",
+      "entryIndex": 1,
+      "name": "Enter: Naruto Uzumaki!",
+      "description": "Once upon a time, the Nine-Tailed Demon Fox devastated the shinobi village of Konohagakure, and was only stopped when the village's leader, the Fourth Hokage, gave up his life to seal it within the body of an infant. Twelve years later, a young orphan boy named Naruto Uzumaki regularly pulls pranks and is constantly causing trouble around the village. The villagers dislike him for it, but having no parents or friends, Naruto craves even negative attention.\n\nOne day, Naruto paints all over the Hokage Monument, leading to the current village leader, the Third Hokage, to come and see. Naruto is eventually brought back to class at the Academy by his teacher, Iruka Umino. At class, Iruka has each student perform the Transformation Technique in preparation for the class's final exam tomorrow, but Naruto instead uses the Sexy Technique.\n\nAfter class, Iruka has Naruto clean up his earlier mess, before deciding to treat Naruto to ramen later that night. There, Iruka asks why Naruto would perform the prank, and Naruto announces his own plans to become Hokage, even though he is incapable of performing even the most basic of techniques. At the final exam, Naruto is unable to use the Clone Technique and Iruka subsequently fails him. Afterwards, a more sympathetic instructor, Mizuki, tells him an apparent secret, while the Third Hokage talks to Iruka about how Iruka also lost his parents in the Nine-Tails attack, and that he relates to Naruto that way.\n\nThat night, Naruto manages to steal the Scroll of Seals, believing that if he can learn one of its secret techniques, he will finally be allowed to continue on to the ranks of the ninja. After successfully stealing the scroll, a search is placed on Naruto, and he is caught by Iruka after only learning one technique. Realising that Naruto has been tricked, Iruka protects him from Mizuki's attack, Mizuki planning to take the scroll for himself.\n\nTo sway Naruto to his side, Mizuki tells Naruto the truth: Naruto is the boy that had the Nine-Tails sealed inside of him, and that a decree was placed preventing anyone from talking about it, barring Naruto from learning about it. He goes on to explain that the villagers hate him for the monster he contains and that Iruka, his parents having been killed by the Nine-Tails, must hate him the most. Mizuki attempts to kill Naruto, but Iruka blocks the attack, revealing his own past to Naruto. Overwhelmed, Naruto flees into the woods.\n\nIruka and Mizuki confront each other while Naruto listens behind a tree. Mizuki berates Iruka, claiming Naruto will use the scroll to get revenge. Iruka says this is not the case as he does not blame Naruto for the beast's actions, before acknowledging him as his friend. Having finally made a friend, Naruto reveals himself and uses his newly mastered Multiple Shadow Clone Technique to defeat Mizuki, while the Third Hokage calls off the search. Amazed by the complicated technique Naruto has learned, Iruka officially makes Naruto a ninja in training and puts faith in him becoming Hokage.",
+      "arc": {
+        "name": "Prologue — Land of Waves",
+        "description": "Prologue — Land of Waves, known as the Lands of Waves Escort Mission in the anime, is an arc from Part I of the series. This arc sees the formation of Team 7 and the completion of their first mission to the Land of Waves. It spans through volumes 1 to 4, or more specifically, covers chapters 1 to 33 of the manga and episodes 1 to 19 of the Naruto anime. This arc is followed by the Chūnin Exams."
+      }
+    }
+  ],
+  "chakraNatures": [
+    {
+      "name": "Lightning",
+      "description": "In order to perform most Lightning Release jutsu, users must convert their chakra into electricity. One of the simpler ways to use this electricity is to channel it into ninja tools, increasing the weapon's cutting power by making it vibrate or causing a numbing effect to those the weapons contact. For the Chidori (and the Lightning Cutter), Kakashi Hatake simply gathers the lightning chakra to his hand, causing severe piercing damage to anything or anyone his hand touches. Sasuke Uchiha sometimes makes broader use of the Chidori's chakra, such as giving it shape so he can attack from greater distances or emitting it around himself to attack those nearby. Less commonly, users can instead take control of natural lightning, as Sasuke does with Kirin; because natural lightning can be difficult to come across, he uses Fire Release in order to produce ideal weather conditions for lightning.\n\nLightning Release is common among ninja of Kumogakure, who make varied applications of it: C uses lightning as a medium for genjutsu, making it easier to entrance opponents; Darui generates a unique Black Lightning, which he learned from the Third Raikage; the Fourth Raikage uses Lightning Release Chakra Mode by coating his body with electricity, which shields him from harm, increases his speed, and enhances the strength of his physical attacks. The Third Raikage's Hell Stab, usable with his own Chakra Mode, is so powerful as to referred to as the \"strongest spear\". In Naruto Shinden: Parent and Child Day, Chōji Akimichi says it's a bad idea for Lightning Release users to wear metallic accessories, such as earrings.\n\nLightning Release is naturally strong against Earth Release and weak against Wind Release; in Kakashi Retsuden, this strength against earth is explained to be because impurities in the earth naturally conduct electricity. If Lightning Release is used with Water Release, the water can increase the range of the lightning, or the lightning can give the water a numbing quality. Individuals who make heavy use of Water Release, such as members of the Hōzuki clan, are similarly very vulnerable to Lightning Release. When Lightning Release is combined with other natures, certain kekkei genkai are produced: lightning and water make Storm Release; lightning and earth are suggested to make Explosion Release."
+    },
+    {
+      "name": "Fire",
+      "description": "Fire Release is almost always used offensively, typically by kneading chakra in the body into flames that the user breathes from the mouth. Simpler applications of Fire Release include creating a stream of fire, or alternatively breaking the stream into bursts of flames. Once produced, the fire can be shaped or otherwise manipulated, but exerting such control requires careful skill. If the flames are channelled into weapons, such as a sword, that allows the user greater finesse with how the fire is spread. Fire Release can take the form of ash clouds that linger in the air, burning and blinding those caught in it, or be erected as a shield, burning away anything that tries to cross it. Less commonly, Fire Release encompasses using flames from other sources, such as exploding tags, with users focusing the explosions against opponents.\n\nFire Release is common among ninja of Konohagakure: Jiraiya frequently uses Fire Release in combination with his summoned toads, the toads' oil increasing the flame's heat and range; members of the Uchiha clan are not considered adults until they've learned to perform the Great Fireball Technique, and with practice they can generate flames strong enough to overcome Water Release; members of the Sarutobi clan frequently use Fire Release, and in fact Fire Release: Great Flame Technique is considered a hidden ability of the clan.\n\nFire Release is naturally strong against Wind Release and weak against Water Release. Fire's strength over wind makes it an effective way to, when used collaboratively, make flames more powerful. If enough Fire Release techniques are used, that can create ideal weather conditions for Lightning Release, such as Kirin. When Fire Release is combined with other natures, certain kekkei genkai are produced: fire and earth make Lava Release; fire and water make Boil Release; fire and wind make Scorch Release. The combination of fire, earth, and wind produces the kekkei tōta, Dust Release."
+    }
+  ],
+  "jutsu": [
+    {
+      "name": "Chidori",
+      "classification": [
+        {
+          "name": "Ninjutsu",
+          "description": "Ninjutsu is one of the three main jutsu categories. Ninjutsu is the most nebulous of the three, and may most simply be described as anything that is not genjutsu or taijutsu. Most ninjutsu require chakra and hand seals, but this is not always the case since the mere usage of weaponry qualifies as ninjutsu. The huge range of ninjutsu's uses is illustrated by its several sub-classifications: medical ninjutsu, reincarnation ninjutsu, space–time ninjutsu, barrier ninjutsu, sealing jutsu, cursed seal jutsu and sensory ninjutsu.\nMost ninjutsu use shape transformation, which deals with controlling the form and movement of the ninjutsu, while nature transformation deals with changing the ninjutsu's physical properties. Ninjutsu that use nature transformation tend to follow a naming convention of their nature type followed by a more specific name. With practice and experience, certain ninjutsu can become second nature to a ninja, allowing them to perform it at will."
+        }
+      ],
+      "creator": null,
+      "rank": "A-Rank",
+      "class": ["Offensive"],
+      "description": "The Chidori was created by Kakashi Hatake after he failed to apply his lightning-nature to the Rasengan. He intended for the Chidori to be a weapon used only to protect friends and loved ones. To perform, the user first induces flesh activation or super flesh activation which affords the production of immense chakra, allowing them to gather lightning to their hand; the high concentration of electricity produces a sound reminiscent of many birds chirping, hence the name. The lightning chakra has been shown on occasions to damage the user's hand, peeling the skin and causing it to smoulder slightly, but this does not appear to actually be debilitating. Once the chakra is gathered, the user charges at their target and thrust the Chidori into them at immense speeds, piercing them and typically causing fatal damage. Capable users like Sarada can even use this technique at speeds faster than light. Despite the sound it makes, the rapid speed at which it's used makes it useful for assassinations.",
+      "debut": [
+        {
+          "type": "Manga",
+          "entryIndex": 113,
+          "name": "The Reason He was Late…!!",
+          "description": "Sealed within his Shield of Sand, Gaara prepares for how he will kill Sasuke. Still unable to pierce it, Sasuke falls back to prepare his own attack. Naruto pleads with Kakashi to end the match, but Kakashi merely tells him to watch. Sasuke readies the Chidori, Kakashi's signature technique that he spent that last month teaching to Sasuke. Combining the Chidori's piercing potential with the speed mimicked from Lee, Sasuke charges at Gaara and breaks through the sphere, surprising all observers.",
+          "arc": {
+            "name": "Chūnin Exams",
+            "description": "The Chūnin Exams, known as the Chūnin Exams Preliminaries and the Chūnin Exams Finals in the anime, is an arc from Part I of the series. This arc sees Team 7's entrance into the Chūnin Exams and the introduction of such characters as the rest of the Rookie Nine, Team Guy, Three Sand Siblings and Orochimaru. It spans through volumes 4-13, or more specifically, covers chapters 34 to 115 of the manga and episodes 20 to 67 of the Naruto anime. This arc is preceded by Prologue — Land of Waves and followed by Konoha Crush."
+          }
+        },
+        {
+          "type": "Anime",
+          "entryIndex": 67,
+          "name": "Late for the Show, but Ready to Go! The Ultimate Secret Technique is Born!",
+          "description": "With Gaara unable to move while within his shield, and Sasuke unable to break through its defence, Sasuke decides to use his new technique: Chidori. With it, Sasuke is able to pierce Gaara's shield, stopping his transformation, and becoming the second person to ever injure Gaara. At that moment, Kabuto Yakushi use a genjutsu to put the audience to sleep, signalling the start of the Konoha Crush.",
+          "arc": {
+            "name": "Chūnin Exams",
+            "description": "The Chūnin Exams, known as the Chūnin Exams Preliminaries and the Chūnin Exams Finals in the anime, is an arc from Part I of the series. This arc sees Team 7's entrance into the Chūnin Exams and the introduction of such characters as the rest of the Rookie Nine, Team Guy, Three Sand Siblings and Orochimaru. It spans through volumes 4-13, or more specifically, covers chapters 34 to 115 of the manga and episodes 20 to 67 of the Naruto anime. This arc is preceded by Prologue — Land of Waves and followed by Konoha Crush."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fire Release: Great Fireball Technique",
+      "classification": [
+        {
+          "name": "Ninjutsu",
+          "description": "Ninjutsu is one of the three main jutsu categories. Ninjutsu is the most nebulous of the three, and may most simply be described as anything that is not genjutsu or taijutsu. Most ninjutsu require chakra and hand seals, but this is not always the case since the mere usage of weaponry qualifies as ninjutsu. The huge range of ninjutsu's uses is illustrated by its several sub-classifications: medical ninjutsu, reincarnation ninjutsu, space–time ninjutsu, barrier ninjutsu, sealing jutsu, cursed seal jutsu and sensory ninjutsu.\nMost ninjutsu use shape transformation, which deals with controlling the form and movement of the ninjutsu, while nature transformation deals with changing the ninjutsu's physical properties. Ninjutsu that use nature transformation tend to follow a naming convention of their nature type followed by a more specific name. With practice and experience, certain ninjutsu can become second nature to a ninja, allowing them to perform it at will."
+        }
+      ],
+      "creator": null,
+      "rank": "C-Rank",
+      "class": ["Offensive"],
+      "description": "The user kneads chakra in their body and turns it into fire, which they then expel from their mouth; the more chakra they use, the more flames that are produced. Sometimes the flames lack a distinct shape, being only a stream, but more often than not they double its power by having it take the form of a giant orb that maintains its shape until hitting a target. Upon impact, the fireball is powerful enough to crater the ground and vaporise the surroundings. Against living targets, the fireball can cause extensive burns.\nThe Great Fireball Technique was created by the Uchiha clan, and over time became one of their signature abilities. Considered a traditional technique of the clan, the Uchiha in fact used the Great Fireball Technique as a coming of age rite, with members not being considered true adults until they learned to perform it. In keeping with this, the manga has only ever shown Uchiha using this technique; the anime at times depicts non-Uchiha performing it.",
+      "debut": [
+        {
+          "type": "Manga",
+          "entryIndex": 7,
+          "name": "Kakashi's Conclusion",
+          "description": "Determined to prove himself better than Naruto and Sakura, Sasuke attacks Kakashi. Unlike the other two, Kakashi has difficulty with Sasuke, needing to close the Icha Icha book he was reading so that he can avoid Sasuke's attacks. When Sasuke uses the Fire Release: Great Fireball Technique, Kakashi is forced to stop playing around and immobilises Sasuke. Naruto, meanwhile, frees himself from Kakashi's trap and tries to steal some lunch. He is, however, caught by Kakashi red-handed. Kakashi calls Team 7 together and states that there's no need for the three go back to the Academy, however he advises them to give up on becoming ninja.",
+          "arc": {
+            "name": "Prologue — Land of Waves",
+            "description": "Prologue — Land of Waves, known as the Lands of Waves Escort Mission in the anime, is an arc from Part I of the series. This arc sees the formation of Team 7 and the completion of their first mission to the Land of Waves. It spans through volumes 1 to 4, or more specifically, covers chapters 1 to 33 of the manga and episodes 1 to 19 of the Naruto anime. This arc is followed by the Chūnin Exams."
+          }
+        },
+        {
+          "type": "Anime",
+          "entryIndex": 5,
+          "name": "You Failed! Kakashi's Final Decision",
+          "description": "Kakashi evades Sasuke's attack with the Body Replacement Technique. After revealing his position, Sasuke moves out to avoid being found by Kakashi. A worried Sakura runs off to find Sasuke, only to be caught by Kakashi's genjutsu that makes her believe that Sasuke is seriously injured, which causes her to scream and faint. Sasuke confronts Kakashi and forces him to stop reading Icha Icha and use both hands to defend against his string of taijutsu attacks. Sasuke then launches a giant fireball at Kakashi, which the jōnin manages to avoid by burrowing underground before dragging Sasuke down, leaving only his head visible.\nNaruto manages to free himself from the rope and spots the food for lunch. Before he can try to snag a bite, Kakashi appears and ties him to a tree post. Elsewhere, Sakura wakes up and goes to look for Sasuke, whom she believes is still injured. She finds him buried from the neck down and comes to the conclusion that he was decapitated, before fainting again. Sasuke manages to free himself and awakens Sakura, who is relieved to see he is unharmed. Despite time running out, Sasuke is still set on getting a bell, informing Sakura that he came close to doing so. Knowing that she is not capable of getting a bell and worried that she'll be separated from Sasuke if he does, Sakura tries to convince him to give up and try next year. Sasuke dismisses the idea, explaining that he is an avenger and doesn't need any setbacks. However, just then, the timer for the exercise goes off.\n\nKakashi meets with the three genin and tells them that he won't be sending them back to the Academy. Naruto and Sakura share in the happy news until Kakashi goes on to say that they will be dropped from being a ninja permanently. Naruto is outraged and demands an explanation, and Kakashi explains that they don't think like ninja, thinking more like \"little kids\". Sasuke then charges at Kakashi, but is easily restrained. Kakashi further explains that teamwork was the key in retrieving a bell, and notes that each of them were so self-entitled throughout the challenge: Naruto recklessly tried to face a foe who clearly outmatched him alone without even a real plan, Sakura focused all her interest on Sasuke while making no effort to help Naruto when she was able to do so, and Sasuke arrogantly believed his teammates were a burden to him and that he would only focus on himself. After showing them Konoha's Memorial Stone, Kakashi decides to give them another chance. Kakashi tells Sasuke and Sakura to eat lunch and replenish their energy; however, since Naruto broke the rules and tried to eat before the test was complete, he is forced to remain tied to the post and watch. Before he leaves, Kakashi warns them that if they feed Naruto, they will immediately fail.\n\nAfter Kakashi leaves, Sasuke and Sakura begin eating their food, while Naruto's stomach growls with hunger. Sasuke decides to share his food with Naruto, stating that since they have to retrieve the bells as a team, he needs Naruto to operate at good strength, which Naruto cannot do if he is hungry. Sakura hesitates, but decides to share her food as well, stating that she is on a diet and eats less than Sasuke. As Sasuke resumes eating his food, Sakura is forced to feed Naruto since his arms are tied. Kakashi then suddenly appears and tells them that they will be punished for not breaking his rules. However, Naruto, Sasuke, and Sakura band together to state that they are a team, and to their surprise, are rewarded with Kakashi stating they have passed. He explains that those who break the rules are considered scum, but those who abandon their friends are even worse than scum. He notifies them that they are the only team he has passed, since they were the only ones to realise that breaking rules to help your friends is necessary, whereas his previous students merely followed his orders. Kakashi tells them to go home and that they will have their first mission together; as Kakashi, Sasuke, and Sakura leave, Naruto yells at them to free him from the tree post.",
+          "arc": {
+            "name": "Prologue — Land of Waves",
+            "description": "Prologue — Land of Waves, known as the Lands of Waves Escort Mission in the anime, is an arc from Part I of the series. This arc sees the formation of Team 7 and the completion of their first mission to the Land of Waves. It spans through volumes 1 to 4, or more specifically, covers chapters 1 to 33 of the manga and episodes 1 to 19 of the Naruto anime. This arc is followed by the Chūnin Exams."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fire Release: Phoenix Sage Fire Technique",
+      "classification": [
+        {
+          "name": "Ninjutsu",
+          "description": "Ninjutsu is one of the three main jutsu categories. Ninjutsu is the most nebulous of the three, and may most simply be described as anything that is not genjutsu or taijutsu. Most ninjutsu require chakra and hand seals, but this is not always the case since the mere usage of weaponry qualifies as ninjutsu. The huge range of ninjutsu's uses is illustrated by its several sub-classifications: medical ninjutsu, reincarnation ninjutsu, space–time ninjutsu, barrier ninjutsu, sealing jutsu, cursed seal jutsu and sensory ninjutsu.\nMost ninjutsu use shape transformation, which deals with controlling the form and movement of the ninjutsu, while nature transformation deals with changing the ninjutsu's physical properties. Ninjutsu that use nature transformation tend to follow a naming convention of their nature type followed by a more specific name. With practice and experience, certain ninjutsu can become second nature to a ninja, allowing them to perform it at will."
+        }
+      ],
+      "creator": null,
+      "rank": "C-rank",
+      "class": ["Offensive"],
+      "description": "The user spits a volley of small fireballs into the air; at a glance, it can appear as though there was only one fireball that then burst into many. The many small flames move wildly through the area, potentially mesmerising targets as they're surrounded. The user controls each individual flame with their chakra, allowing them to guide each at the target and, consequently, making this technique difficult to evade. Shuriken can be hidden within the flames, not only making them more deadly upon impact but also, by controlling the flames' movements, giving users a means of controlling the shuriken as well.",
+      "debut": [
+        {
+          "type": "Manga",
+          "entryIndex": 46,
+          "name": "The Password is…?!",
+          "description": "Soon after entering the Forest of Death, Naruto breaks away from the rest of Team 7 to go to the bathroom. When he returns he is immediately attacked by Sasuke. Sakura is shocked, but Sasuke explains that this Naruto is missing the scratch on the cheek he received from Anko and must be an impostor. The ninja removes his disguise and tries to take their scroll by force, but he is injured by Sasuke and forced to retreat. Once finding the real Naruto, Sasuke decides that they should have a password only they will know in case they are separated again. Sasuke's suggested password is very long, leaving Naruto to request something simpler. Before they can modify the code, the three are attacked by another ninja and separated. Sasuke finds Sakura, who confirms her identity by reciting the password. Naruto locates them soon afterwards and also repeats the password without error. Sasuke once again attacks him, pointing out that the real Naruto would never have remembered such a complex password.",
+          "arc": {
+            "name": "Chūnin Exams",
+            "description": "The Chūnin Exams, known as the Chūnin Exams Preliminaries and the Chūnin Exams Finals in the anime, is an arc from Part I of the series. This arc sees Team 7's entrance into the Chūnin Exams and the introduction of such characters as the rest of the Rookie Nine, Team Guy, Three Sand Siblings and Orochimaru. It spans through volumes 4-13, or more specifically, covers chapters 34 to 115 of the manga and episodes 20 to 67 of the Naruto anime. This arc is preceded by Prologue — Land of Waves and followed by Konoha Crush."
+          }
+        },
+        {
+          "type": "Anime",
+          "entryIndex": 28,
+          "name": "Eat or be Eaten: Panic in the Forest",
+          "description": "Naruto has to pee and Sakura hits him and makes him go pee in a bush. When he comes out, Sasuke starts hitting him and explains to Sakura that this person is not Naruto because Naruto had a scar on his cheek. With his identity being compromised, the Ame ninja ditches his disguise and fights Sasuke, who defeats him while spotting the real Naruto, freeing him after he beats the Ame-nin.\nSasuke tells the others that Team 7 needs a password, although the one he chooses is too long, with Naruto struggling to remember it before a powerful gust of wind separates him from his team. Just as he reorients himself, Naruto finds himself swallowed by a giant snake. When Sasuke and Sakura later meet up with who they thought was Naruto, Sasuke suspects something is wrong when \"Naruto\" repeats the password word for word. Sasuke explains that the real Naruto would not have recited such a difficult password, hence why he chose a lengthy one, and the impostor revealed to be the Kusagakure ninja Shiore. Swallowing his scroll, Shiore paralyses Sasuke and Sakura with visions of their deaths.\n\nSasuke succeeds in regaining his composure and getting himself and Sakura away from Shiore. Meanwhile, Naruto uses his Shadow Clone Technique to burst out of the snake. Once freed, Naruto quickly comes to his friends' aid as Shiore corners Sasuke and Sakura.",
+          "arc": {
+            "name": "Chūnin Exams",
+            "description": "The Chūnin Exams, known as the Chūnin Exams Preliminaries and the Chūnin Exams Finals in the anime, is an arc from Part I of the series. This arc sees Team 7's entrance into the Chūnin Exams and the introduction of such characters as the rest of the Rookie Nine, Team Guy, Three Sand Siblings and Orochimaru. It spans through volumes 4-13, or more specifically, covers chapters 34 to 115 of the manga and episodes 20 to 67 of the Naruto anime. This arc is preceded by Prologue — Land of Waves and followed by Konoha Crush."
+          }
+        }
+      ]
+    }
+  ]
+}

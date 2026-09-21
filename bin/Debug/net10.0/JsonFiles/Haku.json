@@ -1,0 +1,177 @@
+{
+  "id": 6,
+  "name": "Haku",
+  "age": 15,
+  "gender": "M",
+  "rank": null,
+  "status": "Dead",
+  "description": "Haku was an orphan from the Land of Water, and a descendant of the Yuki clan. He later became a shinobi under Zabuza Momochi's tutelage whom he later partnered with, ultimately becoming a Mercenary Ninja.",
+  "village": {
+    "name": "Kirigakure",
+    "description": "Kirigakure (霧隠れの里, Kirigakure no Sato, English TV: Village Hidden in the Mist, literally meaning: Village Hidden by Mist) is the hidden village of the Land of Water. As the village of one of the Five Great Shinobi Countries, Kiri has a Kage as its leader known as the Mizukage, of which there have been six in its history. Befitting its name, the village is surrounded by a thick mist, with several mountains in the background, making it difficult to find by foreigners. Kirigakure's architecture is composed of several cylindrical buildings, with the Mizukage's office being the widest and largest. Most of the buildings have vegetation growing on their roofs.\nThe standard attire for Kiri shinobi revolves around a pinstriped material which the shinobi wear as bracers and greaves which merge into their sandals. Underneath this, they wear a full-black shirt and pants over which they wear the villages' standard grey flak jacket. Some also wear waist-guards. Many Kiri ninja use Water Release techniques. Due to the village's high number of missing-nin, Kiri has a subdivision of Anbu known as hunter-nin that are specifically tasked with eliminating these defectors.",
+    "country": {
+      "name": "Land of Water",
+      "description": "The Land of Water (水の国, Mizu no Kuni) also known as the \"Land of Mist\" (霧の国, Kiri no Kuni). It is composed of many islands, with each having its own unique traditions. The country's weather is typically cool and the islands are usually covered by mist. The islands themselves also feature many lakes. In some places, like the area where Haku grew up, it is very cold and snows quite a bit. The nation is oriented towards the element of water. Its government leader is the Water Daimyō.\nLittle is currently known about the country and it apparently leaves itself out of most political affairs, which is understandable considering that it is composed of vast islands relatively remote from the continent containing the other four major countries. What is known, however, is that the country used to be ravaged by many civil wars, during which clans with kekkei genkai were used extensively, causing many to view them as harbingers of war and death, leading to purges and genocide to the point of parents killing their own children. Many clans went into hiding, such as the Yuki clan. The Funato clan, one of the oldest clans of the Land of Water, has always been at odds with the country and Kirigakure in regards to their goals to pacify the seas, leading to many plunders and internal conflicts. Fifteen years after the Fourth Shinobi World War, the Land of Water grew uneasy with the Land of Waves and Land of the Sea over their continued expansion, to the point of not wanting to sign a treaty that would give them further stability, even against the wishes of Kirigakure, who would also benefit from more stability."
+    }
+  },
+  "villageStatus": null,
+  "clan": {
+    "name": "Yuki Clan",
+    "description": "The Yuki Clan (雪一族, Yuki Ichizoku) lived in the Land of Water. Some time ago, the country was in the midst of a civil war. In this war, different sides battled each other using ninja in combat, some of whom possessed kekkei genkai. After the war ended, memories of the gruesome battles still lingered in the minds of the people, causing wide-spread persecutions against those with the kekkei genkai. Because of this, the Yuki clan, whose members carried the Ice Release kekkei genkai went into hiding for their own safety.\nHaku and his mother, now both deceased, were the only known members of this clan. What happened to the rest of the clan is unknown, but it is assumed that they were either killed or, like Haku's mother, went to live peaceful lives living as normal people, without revealing their true bloodline. Memories of the clan still linger, its members and kekkei genkai being called \"cursed\" even during the Fourth Shinobi World War."
+  },
+  "kekkeiGenkai": {
+    "name": "Ice Release",
+    "description": "Ice Release (氷遁, Hyōton, Viz: Ice Style) is a nature transformation kekkei genkai, a combination of water and wind. The Land of Water's Yuki clan was feared for the power of their Ice Release, forcing its members to go into hiding to escape persecution. In Kakashi Hiden, Kahyō and Rahyō\u200E\u200E are \u200E\u200Eice users whose family was conquered by Kirigakure decades earlier. Because Kiri did not value their lives, they both defected and settled in the Land of Waves. In the Boruto anime, Ryōgi from the Land of Snow can use Ice Release.\nHaku, a descendant of the Yuki clan, can make mirrors of ice that he is able to enter and instantly travel between. His ice is resistant to fire, experiencing little to no melting despite the heat. Kahyō can plant ice particles on targets, causing them to freeze to death if they don't constantly use their chakra to keep themselves warm. Her Ice Release is dependent on moisture in the air, preventing her from forming ice in dry conditions. Rahyō encases his hands with ice, strengthening his taijutsu strikes and making it easier for him to block opponents' taijutsu. Ryōgi can shoot shards of ice at targets.\n\nAn Ice Release user's presence can lower their surroundings' temperature, causing snow to fall in the immediate vicinity. Similarly, Ryōgi is shown lowering his own body temperature so that his movements will not activate thermal sensors."
+  },
+  "debut": [
+    {
+      "type": "Manga",
+      "entryIndex": 15,
+      "name": "The Sharingan Revived!!",
+      "description": "Zabuza is forced to release Kakashi in order to avoid Naruto's attack. Enraged by Naruto's actions, Zabuza tries to attack him, but is stopped by Kakashi. Kakashi congratulates Team 7 on their success and promises to start pulling his own weight. Zabuza attacks Kakashi with his Water Release: Water Dragon Bullet Technique, and Kakashi instantly copies it with his Sharingan. As the two identical techniques collide, Zabuza prepares another attack, only to realise that Kakashi is mimicking everything he does. Kakashi attacks with Zabuza's own Water Release: Great Waterfall Technique, something Zabuza had only been thinking of doing. After landing the attack Kakashi prepares to finish off Zabuza, but a masked boy beats him to it, seemingly to kill Zabuza.",
+      "arc": {
+        "name": "Prologue — Land of Waves",
+        "description": "Prologue — Land of Waves, known as the Lands of Waves Escort Mission in the anime, is an arc from Part I of the series. This arc sees the formation of Team 7 and the completion of their first mission to the Land of Waves. It spans through volumes 1 to 4, or more specifically, covers chapters 1 to 33 of the manga and episodes 1 to 19 of the Naruto anime. This arc is followed by the Chūnin Exams."
+      }
+    },
+    {
+      "type": "Anime",
+      "entryIndex": 9,
+      "name": "Kakashi: Sharingan Warrior!",
+      "description": "Naruto's strategy and teamwork with Sasuke is a success, and Zabuza is forced to break his hold on Kakashi to avoid their attack. Saved from Zabuza's Water Prison Technique, Kakashi attacks his enemy with multiple water techniques copied from Zabuza using his Sharingan. Zabuza becomes agitated seeing his own techniques used against him, and Kakashi easily defeats him. Before Kakashi can deliver the finishing blow, Zabuza is seemingly killed by a young hunter-nin from Kirigakure. Naruto is angry and jealous that someone so young could easily defeat an opponent that gave Team 7 so much trouble, but Kakashi says that there are many ninja younger than Naruto yet stronger than himself. The hunter-nin leaves with Zabuza's body, and Kakashi collapses from exhaustion due to the overuse of his Sharingan.",
+      "arc": {
+        "name": "Prologue — Land of Waves",
+        "description": "Prologue — Land of Waves, known as the Lands of Waves Escort Mission in the anime, is an arc from Part I of the series. This arc sees the formation of Team 7 and the completion of their first mission to the Land of Waves. It spans through volumes 1 to 4, or more specifically, covers chapters 1 to 33 of the manga and episodes 1 to 19 of the Naruto anime. This arc is followed by the Chūnin Exams."
+      }
+    }
+  ],
+  "chakraNatures": [
+    {
+      "name": "Water",
+      "description": "Water Release jutsu are most easily performed using existing water sources, such as lakes or rivers. Users can also create water within their bodies with chakra, which they expel from their mouths, though this is generally regarded as a testament of skill; Tobirama Senju's ability to produce his own water is noted to be proof of his position as Hokage. Water Release is typically used offensively, doing battering damage because of the sheer volume of water or slicing damage because of the water's high pressure. Water Release can be used to trap targets, such as imprisoning them with dense water or ensnaring them with sticky water. Defensively, Water Formation Wall is a common option, with users surrounding themselves with water to be protected from harm. Alternatively, users can hide themselves from opponents with thick mist to obscure vision or water droplets to render the user invisible.\n\nWater Release is common among ninja of Kirigakure, with the Water Clone Technique being one of the village's trademark techniques. Various Kiri-nin utilise Water Release in characteristic ways: Kisame Hoshigaki frequently shapes his water into sharks, such as the Water Shark Bullet; members of the Hōzuki clan use the Hydrification Technique to turn their bodies into water, such as to alter their body or shoot it from their hands; Utakata uses Soap Bubble Ninjutsu, which he employs for various purposes.\n\nWater Release is naturally strong against Fire Release and weak against Earth Release. If Water Release is used with Wind Release, as with the Typhoon Water Vortex Technique, the wind churns the water, increasing its damage and coverage area. If Water Release is used with Lightning Release, the water can increase the range of the lightning, or the lightning can give the water a numbing quality; in Sasuke Shinden, Sasuke Uchiha purifies all his Water Release in order to minimise its conductivity of lightning. When Water Release is combined with other natures, certain kekkei genkai are produced: water and wind make Ice Release; water and earth make Wood Release; water and lightning make Storm Release; water and fire make Boil Release; in Akatsuki Hiden, water and earth also make Mud Release."
+    },
+    {
+      "name": "Wind",
+      "description": "Wind Release is the rarest of the five nature transformations, but those who can use it are able to cut through anything. Asuma Sarutobi uses it by channelling wind chakra into his Chakra Blades, making the blades far sharper and giving them greater reach. Wind Release can also be exhaled from the user's mouth, such as to blow away everything in the area, or generated with the user's hands, allowing precision strikes. Although Wind Release has naturally good range and power, it can be further enhanced by compressing it or layering different wind streams together.\n\nWind Release can easily launch particles into the air, whether to create dust clouds that conceal the user's movements or sand storms that perforate targets. Naruto Uzumaki adds Wind Release to the Rasengan so that he can throw it, as seen with its Rasenshuriken variant. Temari, rather than create winds on her own, instead generates wind by waving her Giant Folding Fan at targets; Temari's summon, Kamatari, rides these wind currents towards her opponents so that it can slice them apart. Despite its rarity, the wind nature is apparently common in Sunagakure ninja, to which the practice of using fans to create wind is a seemingly reoccurring trait amongst their forces.\n\nWind Release is naturally strong against Lightning Release and weak against Fire Release. Wind's weakness to fire makes it an effective way to, when used collaboratively, make flames more powerful. If Wind Release is used with Water Release, as with the Typhoon Water Vortex Technique, the wind churns the water, increasing its damage and coverage area. When Wind Release is combined with other natures, certain kekkei genkai are produced: wind and water make Ice Release; wind and fire make Scorch Release; wind and earth are suggested to make Magnet Release. The combination of wind, earth, and fire produces the kekkei tōta, Dust Release."
+    }
+  ],
+  "jutsu": [
+    {
+      "name": "Demonic Mirroring Ice Crystals",
+      "classification": [
+        {
+          "name": "Ninjutsu",
+          "description": "Ninjutsu is one of the three main jutsu categories. Ninjutsu is the most nebulous of the three, and may most simply be described as anything that is not genjutsu or taijutsu. Most ninjutsu require chakra and hand seals, but this is not always the case since the mere usage of weaponry qualifies as ninjutsu. The huge range of ninjutsu's uses is illustrated by its several sub-classifications: medical ninjutsu, reincarnation ninjutsu, space–time ninjutsu, barrier ninjutsu, sealing jutsu, cursed seal jutsu and sensory ninjutsu.\nMost ninjutsu use shape transformation, which deals with controlling the form and movement of the ninjutsu, while nature transformation deals with changing the ninjutsu's physical properties. Ninjutsu that use nature transformation tend to follow a naming convention of their nature type followed by a more specific name. With practice and experience, certain ninjutsu can become second nature to a ninja, allowing them to perform it at will."
+        },
+        {
+          "name": "Kekkei Genkai",
+          "description": "Kekkei Genkai (血継限界, literally meaning: Bloodline Limit) are DNA anomalies that allow their wielders to use unique techniques or other special abilities, generally inherited only by those of the same bloodline. A kekkei genkai's name describes both the anomaly and the resulting technique. Most kekkei genkai are passed down between generations of a clan, an exception being Hashirama Senju's Wood Release. Likewise, most individuals with kekkei genkai only inherit one kekkei genkai, however this is not always the case."
+        }
+      ],
+      "creator": null,
+      "rank": null,
+      "class": ["Offensive"],
+      "description": "This technique is performed with the \"cursed\" kekkei genkai of the Yuki clan. Haku creates several large mirrors out of ice, which he surrounds a target with.[1] By entering one of these mirrors,[2] Haku's reflection will appear in all of them. Haku can travel between these mirrors near-instantaneously, giving the appearance that he occupies all of them simultaneously. As such, any attacks he makes from these mirrors - usually rapid volleys of thrown senbon - can overwhelm opponents, seemingly coming from every mirror at once.[1] Using the technique requires a great deal of chakra from Haku, meaning he cannot use it indefinitely.[3] In the anime, if the mirror the user is in is broken, they can leap out of one of the fragments and continue their attack or move to another mirror.[4]\nAlthough Haku moves between the mirrors extremely quickly, to the point that Rin no Sho describes it as light speed,[1] but it is still possible to track him through his other travel method: Sasuke Uchiha, with his undeveloped Sharingan, becomes able to follow his progressively slowing movements, and with enough time could even attack Haku;[3] Naruto Uzumaki, after entering an initial jinchūriki form, is able to dodge Haku as well.[5] Similarly, although the mirrors are quite resilient, notably not melting against standard Fire Release,[6] Naruto's jinchūriki form is strong enough to shatter one.[5] The mirrors will also shatter if Haku stops maintaining them.[7]\n\nThese exceptions aside, the Demonic Mirroring Ice Crystals is still a formidable technique. Most victims will be unable to do anything against Haku's attacks, as they are so fast and come from so many directions at once that it's impossible to see all of them. If they should try to attack Haku while he's within a mirror, he can simply move to another mirror before they've even noticed.[1] If Haku completely surrounds his victims with mirrors, such as the dome he uses against Sasuke, then they are effectively trapped; only allies working from outside the dome stand a reasonable chance of saving them.[6] Even targets who manage to keep their distance from Haku are not safe, as he can simply form a mirror next to them, allowing him to quickly travel to and attack them.",
+      "debut": [
+        {
+          "type": "Manga",
+          "entryIndex": 24,
+          "name": "Speed!!",
+          "description": "Sasuke and Haku begin fighting. Although Haku is a skilled opponent, Sasuke is able to make good use of what he learned during his training and pushes Haku to his limits. Irritated that Sasuke is doing so well, Haku uses his trump card: Demonic Mirroring Ice Crystals. Sasuke is trapped in a prison of ice, leaving him open to Haku's attacks. Kakashi attempts to come to his aid but is stopped by Zabuza. With Sasuke apparently doomed, Naruto appears and lands a sneak attack on Haku.",
+          "arc": {
+            "name": "Prologue — Land of Waves",
+            "description": "Prologue — Land of Waves, known as the Lands of Waves Escort Mission in the anime, is an arc from Part I of the series. This arc sees the formation of Team 7 and the completion of their first mission to the Land of Waves. It spans through volumes 1 to 4, or more specifically, covers chapters 1 to 33 of the manga and episodes 1 to 19 of the Naruto anime. This arc is followed by the Chūnin Exams."
+          }
+        },
+        {
+          "type": "Anime",
+          "entryIndex": 13,
+          "name": "Haku's Secret Jutsu: Demonic Mirroring Ice Crystals",
+          "description": "Two of Gatō's thugs arrive at Tazuna's house to kidnap Tsunami for leverage against Tazuna. Inari faces his fear and attempts to stop them, giving Naruto time to arrive and an opportunity to defeat them. Before leaving to join the others at the bridge, Naruto apologises to Inari for calling him a coward and acknowledges his bravery.\n\nMeanwhile, Sasuke and Haku fight, and Sasuke's newfound speed gives him an advantage out in the open. Zabuza comments that they will be the ones to die if this continues, urging Haku to use his Demonic Mirroring Ice Crystals. With the mirrors surrounding Sasuke, Haku submerges himself inside of them, throwing needles that violently cut Sasuke at various parts of his skin. Sakura attempts to save Sasuke by throwing a kunai in their direction, but Haku catches it. However, before Haku can return it, he is knocked out of the mirrors by shuriken, thrown by none other than Naruto, who got there just in time.",
+          "arc": {
+            "name": "Prologue — Land of Waves",
+            "description": "Prologue — Land of Waves, known as the Lands of Waves Escort Mission in the anime, is an arc from Part I of the series. This arc sees the formation of Team 7 and the completion of their first mission to the Land of Waves. It spans through volumes 1 to 4, or more specifically, covers chapters 1 to 33 of the manga and episodes 1 to 19 of the Naruto anime. This arc is followed by the Chūnin Exams."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ice Release: Ice Rock Dome of Magnificent Nothingness",
+      "classification": [
+        {
+          "name": "Ninjutsu",
+          "description": "Ninjutsu is one of the three main jutsu categories. Ninjutsu is the most nebulous of the three, and may most simply be described as anything that is not genjutsu or taijutsu. Most ninjutsu require chakra and hand seals, but this is not always the case since the mere usage of weaponry qualifies as ninjutsu. The huge range of ninjutsu's uses is illustrated by its several sub-classifications: medical ninjutsu, reincarnation ninjutsu, space–time ninjutsu, barrier ninjutsu, sealing jutsu, cursed seal jutsu and sensory ninjutsu.\nMost ninjutsu use shape transformation, which deals with controlling the form and movement of the ninjutsu, while nature transformation deals with changing the ninjutsu's physical properties. Ninjutsu that use nature transformation tend to follow a naming convention of their nature type followed by a more specific name. With practice and experience, certain ninjutsu can become second nature to a ninja, allowing them to perform it at will."
+        },
+        {
+          "name": "Kekkei Genkai",
+          "description": "Kekkei Genkai (血継限界, literally meaning: Bloodline Limit) are DNA anomalies that allow their wielders to use unique techniques or other special abilities, generally inherited only by those of the same bloodline. A kekkei genkai's name describes both the anomaly and the resulting technique. Most kekkei genkai are passed down between generations of a clan, an exception being Hashirama Senju's Wood Release. Likewise, most individuals with kekkei genkai only inherit one kekkei genkai, however this is not always the case."
+        }
+      ],
+      "creator": null,
+      "rank": null,
+      "class": ["Defensive"],
+      "description": "Haku can quickly freeze the surrounding air and create an icy, transparent igloo-like dome around himself and/or allies to act as a defence. It is strong enough to withstand the air assault of many explosive tags at once, remaining almost undamaged.",
+      "debut": [
+        {
+          "type": "Manga",
+          "entryIndex": 520,
+          "name": "The Secret of the Impure World Reincarnation",
+          "description": "Naruto continues to practice making the Tailed Beast Rasengan. Tobi orders Kabuto to kill Anko, but he says he can get stronger by absorbing the remnants of Orochimaru's chakra that is in her, so instead, he has Kabuto show him how Summoning: Impure World Reincarnation works, by having him use Fū Yamanaka to reincarnate Torune, whom he just killed. Kabuto does so. The Allied Forces learn of the White Zetsu Army moving underground. The Surprise Attack Division continues their assault.",
+          "arc": {
+            "name": "Fourth Shinobi World War: Confrontation",
+            "description": "The Fourth Shinobi World War: Confrontation, known as The Seven Shinobi Swordsmen in the anime, is an arc from Part II of the series. This arc sees the start of the Fourth Shinobi World War, specifically the battle against the Impure World Reincarnation. It spans through volumes 55 to 59, or more specifically, covers chapters 516 to 559 of the manga and episodes 261 to 270, and also picks from 272 to 289 of the Naruto: Shippūden anime and later picks up from episodes 296 to 310, and 312 to 321. The six episodes of the Power arc, along with two others, were shown in the interim. This arc is preceded by the Fourth Shinobi World War: Countdown and followed by the Fourth Shinobi World War: Climax."
+          }
+        },
+        {
+          "type": "Anime",
+          "entryIndex": 265,
+          "name": "An Old Nemesis Returns",
+          "description": "Receiving intel from headquarters that enemy troops were travelling underfoot, Mifune redeploys his division to support the others. Elsewhere, Sai, Zaji and Omoi of the Surprise Attack Division launch an aerial attack using explosive tags on a group of reincarnated shinobi that they located, but the enemy recover from the damage quickly. Responding to the threat after protecting Zabuza, Haku launches an aerial attack on the three shinobi using one of his mirrors. Seemingly in peril, the three shinobi are saved by the Third Division who had seen Zaji's signal flare. Confronting Zabuza once again, Kakashi Hatake speaks to him and Haku about Naruto and his growth.\nThis reunion, however, is cut short in its niceties as Kabuto Yakushi — who had just drained Anko Mitarashi of the remaining dregs of Orochimaru's chakra — eradicates their personalities as he prepares to have them attack. As the battle gets under way, Zabuza covers the battlefield in a thick mist under the cover of which the reincarnated shinobi attack. Cautioning his troops before they attack, Kakashi tells them to get into the Manji Formation in order to protect each others' backs. As the battle wages on, Pakura uses her Scorch Release kekkei genkai to essentially mummify the shinobi she attacks while Gari, who had engaged in battle with Tajiki, uses his Explosion Release to blow him to bits. Seeking reprisal, another Kumo-nin attempts to attack Gari and is almost killed by Haku, although Might Guy and Rock Lee intercept the young man's attack and repel him. Intending to keep the upper hand in the battle, Kabuto uses Gari and Pakura to summon the resurrecyed previous generation of the Seven Ninja Swordsmen of the Mist, much to the shock of the onlooking Third Division.",
+          "arc": {
+            "name": "Fourth Shinobi World War: Confrontation",
+            "description": "The Fourth Shinobi World War: Confrontation, known as The Seven Shinobi Swordsmen in the anime, is an arc from Part II of the series. This arc sees the start of the Fourth Shinobi World War, specifically the battle against the Impure World Reincarnation. It spans through volumes 55 to 59, or more specifically, covers chapters 516 to 559 of the manga and episodes 261 to 270, and also picks from 272 to 289 of the Naruto: Shippūden anime and later picks up from episodes 296 to 310, and 312 to 321. The six episodes of the Power arc, along with two others, were shown in the interim. This arc is preceded by the Fourth Shinobi World War: Countdown and followed by the Fourth Shinobi World War: Climax."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Thousand Flying Water Needles of Death",
+      "classification": [
+        {
+          "name": "Ninjutsu",
+          "description": "Ninjutsu is one of the three main jutsu categories. Ninjutsu is the most nebulous of the three, and may most simply be described as anything that is not genjutsu or taijutsu. Most ninjutsu require chakra and hand seals, but this is not always the case since the mere usage of weaponry qualifies as ninjutsu. The huge range of ninjutsu's uses is illustrated by its several sub-classifications: medical ninjutsu, reincarnation ninjutsu, space–time ninjutsu, barrier ninjutsu, sealing jutsu, cursed seal jutsu and sensory ninjutsu.\nMost ninjutsu use shape transformation, which deals with controlling the form and movement of the ninjutsu, while nature transformation deals with changing the ninjutsu's physical properties. Ninjutsu that use nature transformation tend to follow a naming convention of their nature type followed by a more specific name. With practice and experience, certain ninjutsu can become second nature to a ninja, allowing them to perform it at will."
+        }, 
+        {
+          "name": "Hiden",
+          "description": "Hiden or simply \"secret\" techniques are passed down from generation to generation in certain regions or clans. Alternatively, they can also be the result of bodily experimentation and thus cannot be simply replicated.\nThe groups who possess these techniques are usually extremely secretive about them in order to ensure that no one other than the members of the group or clan learns them. As such, they are passed down through oral means instead of being written down or recorded. A few hiden techniques require a special ability or lineage and as such are usually the pride and fame of the clan that possesses them.\n\nMany Hiden techniques are rooted in Yin or Yang Release such as the Nara clan's Shadow Imitation Technique, or the Akimichi clan's Multi-Size Technique respectively. These techniques cannot be copied through simple observation, however, they are not to be confused with kekkei genkai, as technically, hiden techniques can be taught to anyone."
+        }
+      ],
+      "creator": null,
+      "rank": "B-Rank",
+      "class": ["Offensive"],
+      "description": "The user creates a thousand long needles from the nearby water, which surround the target. The user carefully aims the needles at the target and fires them at rapid speeds. Targets who are struck by the needles suffer significant injury. When Haku uses this technique against Sasuke Uchiha, Sasuke is able to escape harm by leaping directly upwards.",
+      "debut": [
+        {
+          "type": "Manga",
+          "entryIndex": 24,
+          "name": "Speed!!",
+          "description": "Sasuke and Haku begin fighting. Although Haku is a skilled opponent, Sasuke is able to make good use of what he learned during his training and pushes Haku to his limits. Irritated that Sasuke is doing so well, Haku uses his trump card: Demonic Mirroring Ice Crystals. Sasuke is trapped in a prison of ice, leaving him open to Haku's attacks. Kakashi attempts to come to his aid but is stopped by Zabuza. With Sasuke apparently doomed, Naruto appears and lands a sneak attack on Haku.",
+          "arc": {
+            "name": "Prologue — Land of Waves",
+            "description": "Prologue — Land of Waves, known as the Lands of Waves Escort Mission in the anime, is an arc from Part I of the series. This arc sees the formation of Team 7 and the completion of their first mission to the Land of Waves. It spans through volumes 1 to 4, or more specifically, covers chapters 1 to 33 of the manga and episodes 1 to 19 of the Naruto anime. This arc is followed by the Chūnin Exams."
+          }
+        },
+        {
+          "type": "Anime",
+          "entryIndex": 13,
+          "name": "Haku's Secret Jutsu: Demonic Mirroring Ice Crystals",
+          "description": "Two of Gatō's thugs arrive at Tazuna's house to kidnap Tsunami for leverage against Tazuna. Inari faces his fear and attempts to stop them, giving Naruto time to arrive and an opportunity to defeat them. Before leaving to join the others at the bridge, Naruto apologises to Inari for calling him a coward and acknowledges his bravery.\n\nMeanwhile, Sasuke and Haku fight, and Sasuke's newfound speed gives him an advantage out in the open. Zabuza comments that they will be the ones to die if this continues, urging Haku to use his Demonic Mirroring Ice Crystals. With the mirrors surrounding Sasuke, Haku submerges himself inside of them, throwing needles that violently cut Sasuke at various parts of his skin. Sakura attempts to save Sasuke by throwing a kunai in their direction, but Haku catches it. However, before Haku can return it, he is knocked out of the mirrors by shuriken, thrown by none other than Naruto, who got there just in time.",
+          "arc": {
+            "name": "Prologue — Land of Waves",
+            "description": "Prologue — Land of Waves, known as the Lands of Waves Escort Mission in the anime, is an arc from Part I of the series. This arc sees the formation of Team 7 and the completion of their first mission to the Land of Waves. It spans through volumes 1 to 4, or more specifically, covers chapters 1 to 33 of the manga and episodes 1 to 19 of the Naruto anime. This arc is followed by the Chūnin Exams."
+          }
+        }
+      ]
+    }
+  ]
+}

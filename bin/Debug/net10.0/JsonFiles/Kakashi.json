@@ -1,0 +1,162 @@
+{
+  "id": 4,
+  "name": "Kakashi Hatake",
+  "age": 31,
+  "gender": "M",
+  "rank": "Kage",
+  "status": "Alive",
+  "description": "Kakashi Hatake is a shinobi of Konohagakure's Hatake clan. Famed as Kakashi of the Sharingan and the Copy Ninja, he is one of Konoha's most talented ninja, regularly looked to for advice and leadership despite his personal dislike of responsibility. To his students on Team 7, Kakashi emphasises the importance of teamwork; he himself received this lesson, along with the Sharingan, from his childhood friend, Obito Uchiha. After the Fourth Shinobi World War, Kakashi becomes Konoha's Sixth Hokage (六代目火影, Rokudaime Hokage, literally meaning: Sixth Fire Shadow).",
+  "village": {
+    "name": "Konohagakure",
+    "description": "Konohagakure (木ノ葉隠れの里, Konohagakure no Sato, English TV: \"Village Hidden in the Leaves\" or \"Hidden Leaf Village\", literally meaning: Village Hidden by Tree Leaves) is the hidden village of the Land of Fire. As the village of one of the Five Great Shinobi Countries, Konohagakure has a Kage as its leader known as the Hokage, of which there have been seven in its history. Konoha resides deep within a forest at the base of a mountain known as the Hokage Rock, which has the faces of all those who have taken the office of Hokage engraved on it. The largest of all villages in the shinobi world, it is surrounded on all sides by enormous walls. While generally seen as the most powerful of the ninja villages, possessing the greatest military force in the Land of Fire. Konoha has enjoyed many years of relative peace and stability.",
+    "country": {
+      "name": "Land of Fire",
+      "description": "The Land of Fire is one of the largest and most powerful countries seen, and is the home of the main characters of the series. Its government leader is the Fire Daimyō. The Land of Fire was the first country to adopt a ninja village, Konohagakure, a custom other countries would soon adopt. The Land of Fire is appropriately oriented towards the element of fire, typically having very bright and warm weather. While not the physically largest country, it has the largest hidden village."
+    }
+  },
+  "villageStatus": "Loyal",
+  "clan": {
+    "name": "Hatake Clan",
+    "description": "The Hatake Clan is one of the many clans that reside in Konohagakure.\nIts only known members are renowned ninja: Konoha's White Fang Sakumo, and his son Copy Ninja Kakashi. The latter would later become the Sixth Hokage following the end of the Fourth Shinobi World War.\n\nThe clan possessed at least one heirloom: the White Light Chakra Sabre, which produced white chakra when swung."
+  },
+  "kekkeiGenkai": null,
+  "debut": [
+    {
+      "type": "Manga",
+      "entryIndex": 3,
+      "name": "Sasuke Uchiha!!",
+      "description": "Naruto Uzumaki, having finally passed his graduation exam, heads to the ninja academy to be put into three man squads. He ends up paired with Sakura Haruno, a girl Naruto has a crush on, and Sasuke Uchiha, the person Naruto considers to be his rival. After Sakura shows disappointment at being paired with Naruto, and only happy about being paired with Sasuke, Naruto devises a plan. During lunch Naruto ambushes Sasuke and ties him up, then uses the Transformation Technique to turn into Sasuke. Approaching Sakura as Sasuke, Naruto goes about finding what she thinks of him. Interrupted by having to go to the bathroom (right before he can get a kiss from Sakura), Sasuke manages to get free. Sasuke passes Sakura and she pesters him about their time together a few moments earlier. She then goes about insulting Naruto, and makes fun of him having no parents. Sasuke retorts angrily, saying she makes him sick. Deciding she has been too mean to Naruto, she decides she should try and be nicer to him from now on.",
+      "arc": {
+        "name": "Prologue — Land of Waves",
+        "description": "Prologue — Land of Waves, known as the Lands of Waves Escort Mission in the anime, is an arc from Part I of the series. This arc sees the formation of Team 7 and the completion of their first mission to the Land of Waves. It spans through volumes 1 to 4, or more specifically, covers chapters 1 to 33 of the manga and episodes 1 to 19 of the Naruto anime. This arc is followed by the Chūnin Exams."
+      }
+    },
+    {
+      "type": "Anime",
+      "entryIndex": 3,
+      "name": "Sasuke and Sakura: Friends or Foes?",
+      "description": "All of the genin graduates arrive at the Academy for their orientation. Sakura spots Sasuke sitting down and runs over to him, knocking down Naruto in the process, and asks if she could sit next to him. However, Ino comes over and states that she should be the one to sit next to Sasuke before many of the other girls do the same thing. Upset over the attention Sasuke is getting from the girls, Naruto gets on top of the desk and glares at Sasuke, with the latter returning the favour. Suddenly, Tobio accidentally bumps into Naruto, causing him to fall forward and kiss Sasuke, much to the girls' dismay. As a result, Naruto gets pummelled by them because they were angry that they weren't Sasuke's first kiss.\nAfter Iruka arrives, he explains the next step the genin will take: they will be in a team of three led by a jōnin. He then announces that Naruto, Sakura, and Sasuke will be Team 7; Hinata, Kiba, and Shino will be Team 8; and Ino, Shikamaru, and Chōji will be Team 10. Naruto abruptly asks Iruka why he had to be on a team with Sasuke before being told that he had the worst scores of all the graduates, while Sasuke had the best, so in turn, they were put together to create a balanced group.\n\nAt lunchtime, Sakura tries to find Sasuke to ask him to have lunch with her to no avail. She then runs into Naruto, who asks her to have lunch with him, but she coldly dismisses him. Angered yet again, Naruto ambushes Sasuke through an open window. Sasuke is shown standing over a gagged and bound Naruto, but it is later revealed that Sasuke only defeated a substitution before the real Naruto overpowers him with the Shadow Clone Technique. Naruto then transforms into Sasuke and heads out to find Sakura. When he finds her, he asks her what she thinks of Naruto. She replies by saying that he is annoying. Sakura then leans in to kiss Sasuke, but as they are about to kiss, Sasuke is forced to go to the bathroom.\n\nWhen the real Sasuke manages to escape, he runs into Sakura and asks if she's seen Naruto. Brushing off his question, she proceeds to mock him, believing that he's so annoying because he has no parents to teach him how to behave and that he is all alone. This sparks Sasuke to remark that Sakura had no idea what it felt like to be alone before saying that she is annoying. This causes Sakura to have some resolve for Naruto, deciding to be nicer to him.\n\nAfter Naruto finishes using the bathroom, he runs into Sasuke, much to his surprise. Naruto uses the Shadow Clone Technique in an attempt to attack Sasuke, but is unable to proceed due to having to use the bathroom again. After finishing, he spots Sakura, who is strangely being nice to him. This leads him to believe that it is Sasuke transformed as her, and he is prepared to face off against her until he has to use the bathroom yet again.\n\nAt Naruto's house, the Third Hokage briefs Kakashi on the team he will be leading, Team 7. Kakashi examines a carton of milk and states that it is spoiled, which is why Naruto had to run to the bathroom so much. Kakashi then comments on how much of a problem Naruto will be.",
+      "arc": {
+        "name": "Prologue — Land of Waves",
+        "description": "Prologue — Land of Waves, known as the Lands of Waves Escort Mission in the anime, is an arc from Part I of the series. This arc sees the formation of Team 7 and the completion of their first mission to the Land of Waves. It spans through volumes 1 to 4, or more specifically, covers chapters 1 to 33 of the manga and episodes 1 to 19 of the Naruto anime. This arc is followed by the Chūnin Exams."
+      }
+    }
+  ],
+  "chakraNatures": [
+    {
+      "name": "Lightning",
+      "description": "In order to perform most Lightning Release jutsu, users must convert their chakra into electricity. One of the simpler ways to use this electricity is to channel it into ninja tools, increasing the weapon's cutting power by making it vibrate or causing a numbing effect to those the weapons contact. For the Chidori (and the Lightning Cutter), Kakashi Hatake simply gathers the lightning chakra to his hand, causing severe piercing damage to anything or anyone his hand touches. Sasuke Uchiha sometimes makes broader use of the Chidori's chakra, such as giving it shape so he can attack from greater distances or emitting it around himself to attack those nearby. Less commonly, users can instead take control of natural lightning, as Sasuke does with Kirin; because natural lightning can be difficult to come across, he uses Fire Release in order to produce ideal weather conditions for lightning.\n\nLightning Release is common among ninja of Kumogakure, who make varied applications of it: C uses lightning as a medium for genjutsu, making it easier to entrance opponents; Darui generates a unique Black Lightning, which he learned from the Third Raikage; the Fourth Raikage uses Lightning Release Chakra Mode by coating his body with electricity, which shields him from harm, increases his speed, and enhances the strength of his physical attacks. The Third Raikage's Hell Stab, usable with his own Chakra Mode, is so powerful as to referred to as the \"strongest spear\". In Naruto Shinden: Parent and Child Day, Chōji Akimichi says it's a bad idea for Lightning Release users to wear metallic accessories, such as earrings.\n\nLightning Release is naturally strong against Earth Release and weak against Wind Release; in Kakashi Retsuden, this strength against earth is explained to be because impurities in the earth naturally conduct electricity. If Lightning Release is used with Water Release, the water can increase the range of the lightning, or the lightning can give the water a numbing quality. Individuals who make heavy use of Water Release, such as members of the Hōzuki clan, are similarly very vulnerable to Lightning Release. When Lightning Release is combined with other natures, certain kekkei genkai are produced: lightning and water make Storm Release; lightning and earth are suggested to make Explosion Release."
+    },
+    {
+      "name": "Earth",
+      "description": "Earth Release encompasses any earthen material, from dirt to stone to clay, and in fact often entails changing one to another. For most Earth Release jutsu, users place their hands on the ground and use their chakra to alter its form.[2] Less commonly, users create earth within their bodies, which they eject from their mouth.[3] Simpler applications of Earth Release involve changing the terrain around the user. Offensively, Earth Release can be clumped together for use as a projectile or broken up to create hazards for enemies. Targets can be trapped by creating a rock dome around them or a muddy pit that they sink into. Defensively, earth can be raised around the user as a fortification against attack, Earth-Style Wall being one of the more common options. Alternatively, Earth Release users can burrow underground in order to escape harm and, indeed, combat.\n\nEarth Release is common among ninja of Iwagakure, who make varied applications of it: Deidara's Explosive Clay is partly-earth based, meaning it can be countered in the same way as Earth Release; Ōnoki, by touching targets, can make them too heavy to move or so light that they can fly; Akatsuchi creates Rock Golems to fight alongside himself and his allies; Kitsuchi uses a mountain's worth of earth to crush targets. During the Third Shinobi World War, Obito Uchiha was believed to be killed because of an Iwa-nin's cave-in, a favourite tactic of the village's ninja.\n\nEarth Release is naturally strong against Water Release and weak against Lightning Release; in Kakashi Retsuden, this weakness is explained to be because impurities in the earth naturally conduct electricity. In the same novel, this weakness can be negated if the Earth Release is changed to glass, but this is so difficult to do as to be thought impossible. When Earth Release is combined with other natures, certain kekkei genkai are produced: earth and water make Wood Release; earth and fire make Lava Release; earth and wind are suggested to make Magnet Release; earth and lightning are suggested to make Explosion Release; earth is suggested to have some role in Crystal Release; in Akatsuki Hiden, earth and water also make Mud Release. The combination of earth, wind, and fire produces the kekkei tōta, Dust Release."
+    }
+  ],
+  "jutsu": [
+    {
+      "name": "Lightning Blade",
+      "classification": [
+        {
+          "name": "Ninjutsu",
+          "description": "Ninjutsu is one of the three main jutsu categories. Ninjutsu is the most nebulous of the three, and may most simply be described as anything that is not genjutsu or taijutsu. Most ninjutsu require chakra and hand seals, but this is not always the case since the mere usage of weaponry qualifies as ninjutsu. The huge range of ninjutsu's uses is illustrated by its several sub-classifications: medical ninjutsu, reincarnation ninjutsu, space–time ninjutsu, barrier ninjutsu, sealing jutsu, cursed seal jutsu and sensory ninjutsu.\nMost ninjutsu use shape transformation, which deals with controlling the form and movement of the ninjutsu, while nature transformation deals with changing the ninjutsu's physical properties. Ninjutsu that use nature transformation tend to follow a naming convention of their nature type followed by a more specific name. With practice and experience, certain ninjutsu can become second nature to a ninja, allowing them to perform it at will."
+        }
+      ],
+      "creator": null,
+      "rank": "S-Rank",
+      "class": ["Offensive"],
+      "description": "Kakashi's Chidori gained the name \"Lightning Cutter\" when he used it to split a bolt of lightning. Although this indicates greater finesse with Kakashi's Lightning Cutter than exists with the standard Chidori, it isn't clear how they differ because they are performed in fundamentally the same way: both concentrate lightning chakra in the hand; both are used to rapidly pierce targets; both cannot be safely used without the Sharingan. When Deidara refers to Sasuke Uchiha's jutsu as Lightning Cutter, Sasuke corrects him and explains that his jutsu is technically only a Chidori.\n\nLike the Chidori, the Lightning Cutter requires a large amount of chakra to be performed, placing a limit on how many times it can be used per day. In Part I, Kakashi can use it four times per day, which he increases to an unspecified number in Part II. During Part II, Kakashi demonstrates several new uses for the Lightning Cutter, such as forming one in each hand to counteract powerful lightning attacks. On another occasion, he links his Lightning Cutter with one of his shadow clone's, using the arc of electricity to cut through multiple targets. He can also flow it into kunai, enhancing its slicing power and giving him a method of throwing the Lightning Cutter.",
+      "debut": [
+        {
+          "type": "Manga",
+          "entryIndex": 30,
+          "name": "Your Future is…!!",
+          "description": "With Zabuza immobilised, Kakashi prepares his Lightning Cutter so that he can finally put an end to Zabuza's schemes. Elsewhere, Haku asks Naruto to kill him. Believing that death is the only way Haku will find happiness, Naruto charges at him just as Kakashi charges at Zabuza. Sensing his master's danger, Haku blocks Naruto's attack and disappears. Using himself as a human shield, Haku takes the full force of the Lightning Cutter, at the same time releasing Zabuza from the ninken. With the last of his strength, Haku grabs Kakashi to prevent him from escaping.",
+          "arc": {
+            "name": "Prologue — Land of Waves",
+            "description": "Prologue — Land of Waves, known as the Lands of Waves Escort Mission in the anime, is an arc from Part I of the series. This arc sees the formation of Team 7 and the completion of their first mission to the Land of Waves. It spans through volumes 1 to 4, or more specifically, covers chapters 1 to 33 of the manga and episodes 1 to 19 of the Naruto anime. This arc is followed by the Chūnin Exams."
+          }
+        },
+        {
+          "type": "Anime",
+          "entryIndex": 17,
+          "name": "White Past: Hidden Ambition",
+          "description": "Naruto's chakra rages around him wildly. Haku remarks that chakra usually couldn't be seen, yet it is clearly visible. Naruto, still angered by the \"death\" of Sasuke, had weakened the seal that kept the Nine-Tailed Demon Fox's chakra in place. Surging with power, Naruto heals his wounds and attacks, brutally overwhelming Haku and deflecting his needle attacks with waves of pure chakra. Haku attempts to flee the circle, but Naruto sees him and snatches his arm with the speed of the Nine-Tails.\nMeanwhile, the battle between Zabuza and Kakashi continues. Kakashi is relieved to sense the seal confining the Nine-Tails has only weakened and has only let a small portion of the fox's chakra out. He decides to end the battle. Zabuza is curious as to how Kakashi would do that when he can’t find him amongst the mist, to which Kakashi’s only response is pulling out a scroll.\n\nNaruto, having grabbed Haku's arm, delivers a powerful punch, sending him through one of the mirrors, simultaneously destroying them all. Naruto rushes at Haku again, ready to deliver another powerful blow, only for Haku's mask to fall off, revealing the boy he'd met in the forest. This causes Naruto to pause his attack. Haku asks Naruto to kill him, as he’s no longer useful to Zabuza, calling himself nothing more than a broken tool. He goes on to explain his past: being born in a small village and how his parents dearly loved him. However, during that time, anyone with a kekkei genkai, a bloodline trait, was feared. When Haku was a small boy, he discovered the powers inherited from his mother. Unfortunately, his father witnessed this and murdered her out of shame. Just as Haku's father was about to kill him too, Haku subconsciously activated his trait, killing his father. A little while after that day, Zabuza found Haku, took him in, and trained him in the most advanced ninja skills.\n\nKakashi finally uses the scroll he'd pulled out earlier to use Summoning: Earth Release: Tracking Fang Technique. Though Kakashi can't see or hear Zabuza, he would smell him out instead with these tracking dogs. Earlier, Kakashi let himself be sliced by Zabuza's blade, covering it in blood. Now carrying that same sword, Zabuza is easier to trace. Kakashi then introduces his only original technique: Lightning Cutter.",
+          "arc": {
+            "name": "Prologue — Land of Waves",
+            "description": "Prologue — Land of Waves, known as the Lands of Waves Escort Mission in the anime, is an arc from Part I of the series. This arc sees the formation of Team 7 and the completion of their first mission to the Land of Waves. It spans through volumes 1 to 4, or more specifically, covers chapters 1 to 33 of the manga and episodes 1 to 19 of the Naruto anime. This arc is followed by the Chūnin Exams."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Earth Release: Hiding Like a Mole Technique",
+      "classification": [
+        {
+          "name": "Ninjutsu",
+          "description": "Ninjutsu is one of the three main jutsu categories. Ninjutsu is the most nebulous of the three, and may most simply be described as anything that is not genjutsu or taijutsu. Most ninjutsu require chakra and hand seals, but this is not always the case since the mere usage of weaponry qualifies as ninjutsu. The huge range of ninjutsu's uses is illustrated by its several sub-classifications: medical ninjutsu, reincarnation ninjutsu, space–time ninjutsu, barrier ninjutsu, sealing jutsu, cursed seal jutsu and sensory ninjutsu.\nMost ninjutsu use shape transformation, which deals with controlling the form and movement of the ninjutsu, while nature transformation deals with changing the ninjutsu's physical properties. Ninjutsu that use nature transformation tend to follow a naming convention of their nature type followed by a more specific name. With practice and experience, certain ninjutsu can become second nature to a ninja, allowing them to perform it at will."
+        }
+      ],
+      "creator": null,
+      "rank": "C-Rank",
+      "class": ["Supplementary"],
+      "description": "This technique changes earth into fine sand by channelling chakra into it, allowing the user to dig through it like a mole. This effect goes around the body (not just the hands), making it just large enough for a person to move through. The user can pinpoint where they are, despite being underground, by sensing the magnetic forces. They can also sense what is happening on the surface and use that information to launch a surprise attack on the enemy. One can also hide deep in the ground, escaping to a depth where the enemy can't reach. It also appears that after digging, the ground can be returned to its original state, leaving no trace of where the user entered the earth.\nWhen combined with clone techniques, the user can use the clone to lure their enemies into a trap or false sense of security before launching a surprise attack from below.",
+      "debut": [
+        {
+          "type": "Manga",
+          "entryIndex": 164,
+          "name": "Medical Specialist!!",
+          "description": "Because Orochimaru is unable to fight in his current state, Kabuto battles Tsunade in his place. He informs Orochimaru that Jiraiya is nearby and likely en route, so they relocate. Jiraiya, Shizune, and Naruto just miss them, but pick up the trail. Unskilled with taijutsu and otherwise outmatched, Kabuto tries to end the battle quickly. He damages Tsunade's chest to disable her while keeping her alive, but she shirks it off and attacks him. He recovers and attempts to take advantage of her fear of blood, but Jiraiya and the others appear between them.",
+          "arc": {
+            "name": "Search For Tsunade",
+            "description": "Search for Tsunade is an arc from Part I of the series. This arc sees the first appearance of Akatsuki as well as the competing attempts of Jiraiya and Orochimaru to recruit Tsunade. It spans through volumes 16 to 19, or more specifically, covers chapters 139 to 171 of the manga and episodes 81 to 100 of the Naruto anime. This arc is preceded by the Konoha Crush. In the manga, it is followed by the Sasuke Recovery Mission, while in the anime, it is followed by the Land of Tea Escort Mission."
+          }
+        },
+        {
+          "type": "Anime",
+          "entryIndex": 93,
+          "name": "Breakdown! The Deal is Off!",
+          "description": "Having recognised that Tsunade's healing technique was filled with killing intent, due to being a medical-nin himself, Kabuto realised that she had no intention of helping Orochimaru. As Orochimaru asked Tsunade why she would betray him, Tsunade replies that though she would have given anything to see her loved ones again, she couldn't bring herself to heal Orochimaru as he would only destroy Konoha, the village both her brother and lover died to protect, and was enlightened by Naruto. With Tsunade being the only person who can heal Orochimaru, they decide to take her by force, and Kabuto and Tsunade begin to fight. Although Tsunade has far more battle experience than Kabuto, he is able to hold his own against her, even managing to get in a few debilitating attacks. She eventually gains the upper hand, but her Body Pathway Derangement technique is quickly overcome by Kabuto's knowledge of the human body. As Kabuto charges at her and prepares to put Tsunade out of commission, Naruto, Jiraiya, and Tsunade's assistant, Shizune, arrive to help.",
+          "arc": {
+            "name": "Search For Tsunade",
+            "description": "Search for Tsunade is an arc from Part I of the series. This arc sees the first appearance of Akatsuki as well as the competing attempts of Jiraiya and Orochimaru to recruit Tsunade. It spans through volumes 16 to 19, or more specifically, covers chapters 139 to 171 of the manga and episodes 81 to 100 of the Naruto anime. This arc is preceded by the Konoha Crush. In the manga, it is followed by the Sasuke Recovery Mission, while in the anime, it is followed by the Land of Tea Escort Mission."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Water Release: Water Dragon Bullet Technique",
+      "classification": [
+        {
+          "name": "Ninjutsu",
+          "description": "Ninjutsu is one of the three main jutsu categories. Ninjutsu is the most nebulous of the three, and may most simply be described as anything that is not genjutsu or taijutsu. Most ninjutsu require chakra and hand seals, but this is not always the case since the mere usage of weaponry qualifies as ninjutsu. The huge range of ninjutsu's uses is illustrated by its several sub-classifications: medical ninjutsu, reincarnation ninjutsu, space–time ninjutsu, barrier ninjutsu, sealing jutsu, cursed seal jutsu and sensory ninjutsu.\nMost ninjutsu use shape transformation, which deals with controlling the form and movement of the ninjutsu, while nature transformation deals with changing the ninjutsu's physical properties. Ninjutsu that use nature transformation tend to follow a naming convention of their nature type followed by a more specific name. With practice and experience, certain ninjutsu can become second nature to a ninja, allowing them to perform it at will."
+        }
+      ],
+      "creator": null,
+      "rank": "B-Rank",
+      "class": ["Offensive"],
+      "description": "The user moulds water into the shape of a dragon, which they then direct at a target. The water crashes upon the target, dealing significant physical damage. Ideally, users will use pre-existing bodies of water for this technique, but sufficiently skilled users can instead create the water themselves, spitting the dragon from their mouths. The more talented the user, the greater the amount of water that the dragon can be made from.",
+      "debut": [
+        {
+          "type": "Manga",
+          "entryIndex": 15,
+          "name": "The Sharingan Revived!!",
+          "description": "Zabuza is forced to release Kakashi in order to avoid Naruto's attack. Enraged by Naruto's actions, Zabuza tries to attack him, but is stopped by Kakashi. Kakashi congratulates Team 7 on their success and promises to start pulling his own weight. Zabuza attacks Kakashi with his Water Release: Water Dragon Bullet Technique, and Kakashi instantly copies it with his Sharingan. As the two identical techniques collide, Zabuza prepares another attack, only to realise that Kakashi is mimicking everything he does. Kakashi attacks with Zabuza's own Water Release: Great Waterfall Technique, something Zabuza had only been thinking of doing. After landing the attack Kakashi prepares to finish off Zabuza, but a masked boy beats him to it, seemingly to kill Zabuza.",
+          "arc": {
+            "name": "Prologue — Land of Waves",
+            "description": "Prologue — Land of Waves, known as the Lands of Waves Escort Mission in the anime, is an arc from Part I of the series. This arc sees the formation of Team 7 and the completion of their first mission to the Land of Waves. It spans through volumes 1 to 4, or more specifically, covers chapters 1 to 33 of the manga and episodes 1 to 19 of the Naruto anime. This arc is followed by the Chūnin Exams."
+          }
+        },
+        {
+          "type": "Anime",
+          "entryIndex": 9,
+          "name": "Kakashi: Sharingan Warrior!",
+          "description": "Naruto's strategy and teamwork with Sasuke is a success, and Zabuza is forced to break his hold on Kakashi to avoid their attack. Saved from Zabuza's Water Prison Technique, Kakashi attacks his enemy with multiple water techniques copied from Zabuza using his Sharingan. Zabuza becomes agitated seeing his own techniques used against him, and Kakashi easily defeats him. Before Kakashi can deliver the finishing blow, Zabuza is seemingly killed by a young hunter-nin from Kirigakure. Naruto is angry and jealous that someone so young could easily defeat an opponent that gave Team 7 so much trouble, but Kakashi says that there are many ninja younger than Naruto yet stronger than himself. The hunter-nin leaves with Zabuza's body, and Kakashi collapses from exhaustion due to the overuse of his Sharingan.",
+          "arc": {
+            "name": "Prologue — Land of Waves",
+            "description": "Prologue — Land of Waves, known as the Lands of Waves Escort Mission in the anime, is an arc from Part I of the series. This arc sees the formation of Team 7 and the completion of their first mission to the Land of Waves. It spans through volumes 1 to 4, or more specifically, covers chapters 1 to 33 of the manga and episodes 1 to 19 of the Naruto anime. This arc is followed by the Chūnin Exams."
+          }
+        }
+      ]
+    }
+  ]
+}
