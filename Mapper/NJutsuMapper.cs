@@ -12,7 +12,7 @@ public static class NJutsuMapper
         {
             Name = nJutsuFile.Name,
             Description = nJutsuFile.Description,
-            Rank = EnumExtensions.Parse<NJutsuRank>(nJutsuFile.JutsuRank),
+            Rank = nJutsuFile.JutsuRank == null ? null : EnumExtensions.Parse<NJutsuRank>(nJutsuFile.JutsuRank),
             Classes = nJutsuFile.Classes.Select(c => Enum.Parse<NJutsuClass>(c)).ToList()
         };
     }

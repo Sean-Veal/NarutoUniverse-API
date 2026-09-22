@@ -10,7 +10,7 @@ public class NJutsuFile
     [JsonPropertyName("classification")]
     public required List<NJutsuClassFile> Classifications { get; set; }
     [JsonPropertyName("rank")]
-    public required string JutsuRank { get; set; }
+    public string? JutsuRank { get; set; }
     [JsonPropertyName("class")]
     public required List<String> Classes { get; set; }
     [JsonPropertyName("description")]

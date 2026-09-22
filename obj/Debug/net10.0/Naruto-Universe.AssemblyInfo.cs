@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Naruto-Universe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94b30407a6b4b2a3cd3baa82db605a10d5ce7893")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68c7af333764b5ede443725a8c16b1846afe21bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Naruto-Universe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Naruto-Universe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

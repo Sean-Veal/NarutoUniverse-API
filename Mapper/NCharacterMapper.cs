@@ -6,7 +6,7 @@ namespace Naruto_Universe.Mapper;
 
 public static class NCharacterMapper
 {
-    public static NCharacter ToNCharacter(this NCharacterFile characterFile, NVillage nVillage)
+    public static NCharacter ToNCharacter(this NCharacterFile characterFile, NVillage nVillage, List<NChakraNature> chakraNatures)
     {
         return new NCharacter
         {
@@ -19,7 +19,7 @@ public static class NCharacterMapper
             VillageStatus = characterFile.VillageStatus == null ? null : 
                 EnumExtensions.Parse<NVillageStatus>(characterFile.VillageStatus),
             KekkeiGenkai = characterFile.KekkeiGenkai?.ToNKekkeiGenkai(),
-            ChakraNatures = characterFile.ChakraNatures.Select(c => c.ToNChakraNature()).ToList(),
+            ChakraNatures = chakraNatures,
             Clan = characterFile.Clan?.ToNClan(),
             Village = nVillage
         };

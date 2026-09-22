@@ -1,0 +1,131 @@
+{
+  "id": 9,
+  "name": "TenTen",
+  "age": 18,
+  "gender": "F",
+  "rank": "Chuunin",
+  "status": "Alive",
+  "description": "Tenten (テンテン) is a kunoichi from Konohagakure and a member of Team Guy. Wanting to be a powerful kunoichi, she puts her all into perfecting her weaponry and fūinjutsu skills. Years after the Fourth Shinobi World War, she opened her own weapon shop and became a proctor of the Chūnin Exams.",
+  "village": {
+    "name": "Konohagakure",
+    "description": "Konohagakure (木ノ葉隠れの里, Konohagakure no Sato, English TV: \"Village Hidden in the Leaves\" or \"Hidden Leaf Village\", literally meaning: Village Hidden by Tree Leaves) is the hidden village of the Land of Fire. As the village of one of the Five Great Shinobi Countries, Konohagakure has a Kage as its leader known as the Hokage, of which there have been seven in its history. Konoha resides deep within a forest at the base of a mountain known as the Hokage Rock, which has the faces of all those who have taken the office of Hokage engraved on it. The largest of all villages in the shinobi world, it is surrounded on all sides by enormous walls. While generally seen as the most powerful of the ninja villages, possessing the greatest military force in the Land of Fire. Konoha has enjoyed many years of relative peace and stability.",
+    "country": {
+      "name": "Land of Fire",
+      "description": "The Land of Fire is one of the largest and most powerful countries seen, and is the home of the main characters of the series. Its government leader is the Fire Daimyō. The Land of Fire was the first country to adopt a ninja village, Konohagakure, a custom other countries would soon adopt. The Land of Fire is appropriately oriented towards the element of fire, typically having very bright and warm weather. While not the physically largest country, it has the largest hidden village."
+    }
+  },
+  "villageStatus": "Loyal",
+  "clan": null,
+  "kekkeiGenkai": null,
+  "debut": [
+    {
+      "type": "Manga",
+      "entryIndex": 36,
+      "name": "Sakura's Depression!!",
+      "description": "Kakashi informs Team 7 that they have the opportunity to enter the Chūnin Exams. He gives any and all of them the choice not to participate before leaving. Although Naruto and Sasuke are enthusiastic, Sakura is worried that she will not be able to keep up with the other competitors. Nevertheless, Team 7 heads to the sign-up location together the next day and finds the members of Team Guy being bullied by two genin. Recognising that things are not as they seem, Sasuke begins to fight one of the genin but they are stopped by Rock Lee, a member of Team Guy who had only moments earlier appeared defenceless. Lee asks Sakura to be his girlfriend, but she turns him down before leaving. The two genin, actually chūnin in disguise, remark that this exam's competitors seem promising. Lee follows Team 7 to challenge Sasuke.",
+      "arc": {
+        "name": "Chūnin Exams",
+        "description": "The Chūnin Exams, known as the Chūnin Exams Preliminaries and the Chūnin Exams Finals in the anime, is an arc from Part I of the series. This arc sees Team 7's entrance into the Chūnin Exams and the introduction of such characters as the rest of the Rookie Nine, Team Guy, Three Sand Siblings and Orochimaru. It spans through volumes 4-13, or more specifically, covers chapters 34 to 115 of the manga and episodes 20 to 67 of the Naruto anime. This arc is preceded by Prologue — Land of Waves and followed by Konoha Crush."
+      }
+    },
+    {
+      "type": "Anime",
+      "entryIndex": 21,
+      "name": "Identify Yourself: Powerful New Rivals",
+      "description": "As the Three Sand Siblings are introduced, Gaara scolds Kankurō for his abuse of the kids. Gaara then apologises to Sasuke for Kankurō's behaviour. The three are ninja from Sunagakure and they come here in Konoha for the Chūnin Exams. Another team watches unseen from a tree nearby. The Third Hokage asks Kakashi, Asuma and Kurenai to step forward and recommend any Genin they believe to be fit to take the Chūnin Exams. Iruka thinks that the rookies need more time, and that there is no way that any of them will be recommended. However, all three jōnin recommend their students which shocks Iruka greatly. Iruka challenges their decision, as he believes Naruto and the others are not ready for the exam. They however stand by their decision and the Hokage agrees, but only after Kakashi reminds Iruka they are no longer his students, but ninja under his command. The next morning Kakashi gives Team 7 the application forms for the Chūnin Exams. Both Sasuke and Naruto accept, but Sakura is uncertain. Later, all three of Team 7 are attacked by a mysterious ninja from a different village. Moegi is captured by a mysterious ninja, and is seen tied up and gagged with a cloth. Naruto eventually saves her, but the mysterious ninja escapes. Sakura is taken in by his genjutsu but quickly figures it out. Despite this she is still uncertain about the exam. Sasuke easily defeats the ninja, telling him to stay out of Konohagakure. The ninja is revealed to be Iruka in disguise. He reports back to Kakashi, confirming they all passed his test. Inside the school registration for the exam is taking place, but two shinobi bar the way warning all the genin about the exam. An altercation nearly takes place but Rock Lee steps in and diffuses the situation, which surprises Sasuke. Rock Lee later goes after Sasuke and challenges him to a duel.",
+      "arc": {
+        "name": "Chūnin Exams",
+        "description": "The Chūnin Exams, known as the Chūnin Exams Preliminaries and the Chūnin Exams Finals in the anime, is an arc from Part I of the series. This arc sees Team 7's entrance into the Chūnin Exams and the introduction of such characters as the rest of the Rookie Nine, Team Guy, Three Sand Siblings and Orochimaru. It spans through volumes 4-13, or more specifically, covers chapters 34 to 115 of the manga and episodes 20 to 67 of the Naruto anime. This arc is preceded by Prologue — Land of Waves and followed by Konoha Crush."
+      }
+    }
+  ],
+  "chakraNatures": [],
+  "jutsu": [
+    {
+      "name": "Unsealing Technique",
+      "classification": [
+        {
+          "name": "Ninjutsu",
+          "description": "Ninjutsu is one of the three main jutsu categories. Ninjutsu is the most nebulous of the three, and may most simply be described as anything that is not genjutsu or taijutsu. Most ninjutsu require chakra and hand seals, but this is not always the case since the mere usage of weaponry qualifies as ninjutsu. The huge range of ninjutsu's uses is illustrated by its several sub-classifications: medical ninjutsu, reincarnation ninjutsu, space–time ninjutsu, barrier ninjutsu, sealing jutsu, cursed seal jutsu and sensory ninjutsu.\nMost ninjutsu use shape transformation, which deals with controlling the form and movement of the ninjutsu, while nature transformation deals with changing the ninjutsu's physical properties. Ninjutsu that use nature transformation tend to follow a naming convention of their nature type followed by a more specific name. With practice and experience, certain ninjutsu can become second nature to a ninja, allowing them to perform it at will."
+        },
+        {
+          "name": "Fighting Style",
+          "description": "A \"fighting style\" is the characteristic ability upon which most or even all of a shinobi's jutsu are based. In the case of taijutsu users, their fighting style dictates their stance in combat and how they strike their opponents; examples include the Strong Fist and Gentle Fist. In the case of ninjutsu users, their fighting style is a cornerstone to all their tactics and by which they are most easily identified; examples include Sai's Super Beast Imitating Drawing and Konan's Dance of the Shikigami. Ninjutsu users' fighting styles may alternatively be defined by what tool or resource they most commonly employ rather than a single ability; examples include Gaara's sand or the Inuzuka clan's ninken partners."
+        },
+        {
+          "name": "Fūinjutsu",
+          "description": "Fūinjutsu (封印術, English TV: Sealing Jutsu, literally meaning: Sealing Techniques) are a type of jutsu that seal objects, living beings, chakra, along with a wide variety of other things within another object, usually using sealing formula (封印式, fūin-shiki).[1] Fūinjutsu can also be used to restrict movement or unseal objects either from within something or someone.\nThe presence of a seal is marked by the appearance of formations of technique formulae, kanji, or else other kinds of symbols (likewise with Summoning Techniques).\n\nA unison of barrier ninjutsu and fūinjutsu is referred to as a \"Sealing Barrier\" (封印結界, Fūin Kekkai).\n\nIn a similar fashion to genjutsu, fūinjutsu can be undone by combining specific seals with a Fūinjutsu: Release (封印術・解, Fūinjutsu: Kai, literally meaning: Sealing Technique: Release) command."
+        }
+      ],
+      "creator": null,
+      "rank": null,
+      "class": ["Supplementary"],
+      "description": "A technique used by shinobi to unseal what was sealed within a scroll, or in the anime, a sheet of paper.",
+      "debut": [
+        {
+          "type": "Manga",
+          "entryIndex": 184,
+          "name": "Oto vs. Konoha!!",
+          "description": "The Sound Four offer to advance Sasuke's cursed seal to its second level. Because they are forcing the process, Sasuke must be put into a death-like state for an extended period of time. They explain the state as 'suspended animation' after which Sasuke agrees and, after \"dying\", is sealed into a coffin. Meanwhile, Tsunade gives Lee a final chance to back out of the operation. Seeing how determined he is to resume his life as a ninja and fulfil his dreams, she immediately gets to work. As the Sound Four carry Sasuke's coffin to Orochimaru, they are found by Konoha ninja returning from a mission. Knowing they will need help, the Sound Four activate their cursed seals.",
+          "arc": {
+            "name": "Sasuke Recovery Mission",
+            "description": "The Sasuke Recovery Mission (サスケ奪回任務, Sasuke Dakkai Ninmu), known as the Sasuke Uchiha Recovery (うちはサスケ奪回, Uchiha Sasuke Dakkai) and the Valley of the End (終末の谷, Shūmatsu no Tani) in the anime, is an arc from Part I of the series. This arc sees the attempt to stop Sasuke Uchiha from defecting to Orochimaru. It spans through volumes 20-27, or more specifically, covers chapters 172 to 238 of the manga and episodes 107 to 135 of the Naruto anime. In the manga, this arc is preceded by the Search for Tsunade and followed by Kakashi Gaiden. In the anime, it is preceded by the Land of Tea Escort Mission and is followed by the Land of Rice Fields Investigation Mission."
+          }
+        },
+        {
+          "type": "Anime",
+          "entryIndex": 43,
+          "name": "Killer Kunoichi and a Shaky Shikamaru",
+          "description": "Tenten and Temari are chosen to fight next. Tenten makes the first move and Temari easily dodges it. Team Guy was surprised that no weapon could even scratch or hit Temari. Tenten tries another attack that Temari repels using wind from her Giant Folding Fan, before warning Tenten that if she sees all three stars (moons in the English anime) in her fan, the fight will be over. Tenten uses her Twin Rising Dragons technique. Uncovering the second star, Temari repels the attack, then Tenten uses strings to re-use the weapons. Uncovering the third star, Temari repels the attack and traps Tenten in a cyclone. When Tenten falls from the cyclone, Temari makes her land on her fan, knocking her out. After being declared winner, Temari tries to throw Tenten on the many weapons scattered on the floor, but Rock Lee descends and catches her. He then attacks Temari, only to be stopped by Might Guy, who warns the Suna shinobi to not underestimate Lee.\nShikamaru and Kin Tsuchi are then next. Shikamaru tries the Shadow Imitation Technique but Kin easily evades and throws some senbon with bells attached at him. Shikamaru recognises the trick and mocks her for using such basic techniques. Kin then rings the bells on the senbon, starting her genjutsu. Shikamaru gets caught in Kin's genjutsu, unable to move, while Kin proceeds to attack him with more senbon. However, when Kin tries to attack again, she suddenly realises that she can't move. Shikamaru tells her that he extended his Shadow Imitation Technique through the shadow of the wires she's holding. He then throws a shuriken at Kin, which she imitates. When Shikamaru ducks backwards to evade it, Kin is forced to imitate him, but she did not realise that she was too close to the wall, hitting her head and knocking herself out.\n\nShikamaru is declared the winner of the match and Naruto and Kiba are chosen to fight next.",
+          "arc": {
+            "name": "Chūnin Exams",
+            "description": "The Chūnin Exams, known as the Chūnin Exams Preliminaries and the Chūnin Exams Finals in the anime, is an arc from Part I of the series. This arc sees Team 7's entrance into the Chūnin Exams and the introduction of such characters as the rest of the Rookie Nine, Team Guy, Three Sand Siblings and Orochimaru. It spans through volumes 4-13, or more specifically, covers chapters 34 to 115 of the manga and episodes 20 to 67 of the Naruto anime. This arc is preceded by Prologue — Land of Waves and followed by Konoha Crush."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Enclosing Technique",
+      "classification": [
+        {
+          "name": "Ninjutsu",
+          "description": "Ninjutsu is one of the three main jutsu categories. Ninjutsu is the most nebulous of the three, and may most simply be described as anything that is not genjutsu or taijutsu. Most ninjutsu require chakra and hand seals, but this is not always the case since the mere usage of weaponry qualifies as ninjutsu. The huge range of ninjutsu's uses is illustrated by its several sub-classifications: medical ninjutsu, reincarnation ninjutsu, space–time ninjutsu, barrier ninjutsu, sealing jutsu, cursed seal jutsu and sensory ninjutsu.\nMost ninjutsu use shape transformation, which deals with controlling the form and movement of the ninjutsu, while nature transformation deals with changing the ninjutsu's physical properties. Ninjutsu that use nature transformation tend to follow a naming convention of their nature type followed by a more specific name. With practice and experience, certain ninjutsu can become second nature to a ninja, allowing them to perform it at will."
+        },
+        {
+          "name": "Fighting Style",
+          "description": "A \"fighting style\" is the characteristic ability upon which most or even all of a shinobi's jutsu are based. In the case of taijutsu users, their fighting style dictates their stance in combat and how they strike their opponents; examples include the Strong Fist and Gentle Fist. In the case of ninjutsu users, their fighting style is a cornerstone to all their tactics and by which they are most easily identified; examples include Sai's Super Beast Imitating Drawing and Konan's Dance of the Shikigami. Ninjutsu users' fighting styles may alternatively be defined by what tool or resource they most commonly employ rather than a single ability; examples include Gaara's sand or the Inuzuka clan's ninken partners."
+        },
+        {
+          "name": "Fūinjutsu",
+          "description": "Fūinjutsu (封印術, English TV: Sealing Jutsu, literally meaning: Sealing Techniques) are a type of jutsu that seal objects, living beings, chakra, along with a wide variety of other things within another object, usually using sealing formula (封印式, fūin-shiki).[1] Fūinjutsu can also be used to restrict movement or unseal objects either from within something or someone.\nThe presence of a seal is marked by the appearance of formations of technique formulae, kanji, or else other kinds of symbols (likewise with Summoning Techniques).\n\nA unison of barrier ninjutsu and fūinjutsu is referred to as a \"Sealing Barrier\" (封印結界, Fūin Kekkai).\n\nIn a similar fashion to genjutsu, fūinjutsu can be undone by combining specific seals with a Fūinjutsu: Release (封印術・解, Fūinjutsu: Kai, literally meaning: Sealing Technique: Release) command."
+        }
+      ],
+      "creator": null,
+      "rank": null,
+      "class": ["Supplementary"],
+      "description": "Using this technique, a wide variety of objects and even living things can be stored within scrolls, and can be released when the scroll is opened or meets a specific condition. It is possible to seal ninjutsu into a scroll, as demonstrated by Kisame Hoshigaki, who placed sharks into his Water Prison Technique that he sealed into a scroll, which would activate and imprison anyone that tried to read the scroll upon opening it.\nTo save chakra, instead of sealing a nature element into a scroll that was created through chakra, one could just use pre-existing nature elements, like water from an ocean, and seal it within the scroll. Though a scroll is the most common use of sealing something, as demonstrated by Ajisai in the anime, this technique can be used to seal things into a small sheet of paper too.",
+      "debut": [
+        {
+          "type": "Manga",
+          "entryIndex": 148,
+          "name": "Itachi's Power!!",
+          "description": "Itachi tells Sasuke that he is still too weak. Jiraiya tries to capture him and Kisame but they flee, managing to escape from his Summoning: Toad Mouth Bind with Amaterasu. Jiraiya takes a sample of the flames for future study and Naruto checks on Sasuke. While they are preoccupied, Guy appears and attacks Jiraiya, having thought he was Itachi or Kisame. Naruto expresses an interest in going after the Akatsuki members, but Jiraiya tells him he would stand no chance against them. Because of the condition Sasuke and Kakashi have been left in after their encounters with Itachi, as well as Lee's predicament, Guy regrets that Tsunade is no longer in Konoha. Jiraiya tells him that they are in the middle of searching for Tsunade, the world's greatest medic.",
+          "arc": {
+            "name": "Search For Tsunade",
+            "description": "Search for Tsunade is an arc from Part I of the series. This arc sees the first appearance of Akatsuki as well as the competing attempts of Jiraiya and Orochimaru to recruit Tsunade. It spans through volumes 16 to 19, or more specifically, covers chapters 139 to 171 of the manga and episodes 81 to 100 of the Naruto anime. This arc is preceded by the Konoha Crush. In the manga, it is followed by the Sasuke Recovery Mission, while in the anime, it is followed by the Land of Tea Escort Mission."
+          }
+        },
+        {
+          "type": "Anime",
+          "entryIndex": 85,
+          "name": "Hate Among the Uchihas: The Last of the Clan!",
+          "description": "Kisame's would-be fatal attack is blocked by Gama, and Jiraiya tells the two Akatsuki members that cheap tricks like putting a young woman under genjutsu would never work on him. Standing to his feet again, Sasuke tells Naruto to stay out of his own fight, but is easily beaten down by Itachi, who tells his brother that he is still too weak and he still hasn't mustered enough hatred. Deeming it necessary to make him stronger, Itachi activated Tsukuyomi and forced Sasuke to relive his parents' and other clan members deaths. As Naruto rushes forward to aid his comrade, Kisame prepared to attack him, but Jiraiya uses the Summoning: Toad Mouth Bind technique to stop the two Akatsuki members.\nThe entire area became the oesophagus of the Mountain Toad, with Kisame's foot and sword already starting to be absorbed as Jiraiya began explaining his technique. Sasuke was absorbed into the wall, thus being saved from Itachi. Itachi instructed Kisame that it was time to flee, knowing that the only way they could survive this technique was to escape. Itachi is forced to use Amaterasu to burn a hole in the toad's oesophagus, allowing them to escape; Jiraiya then seals away the flames, remarking that it had to be a powerful technique to burn through and allow them to escape.\n\nAs Jiraiya and Naruto are checking on Sasuke, Guy suddenly appears out of nowhere and kicks the Sannin in the face with his Dynamic Entry. He had thought that Naruto and Jiraiya were Itachi and Kisame after using the reflection from his forehead protector to check what was ahead. He had seen two figures in the dull reflection, so he had automatically assumed that Itachi and Kisame were still there. Naruto thinks back on Sasuke's defeat at Itachi's hands. He resolves to go after Itachi and Kisame for doing that to Sasuke, but is quickly shot down by a more realistic Jiraiya, who tells him that he is nowhere near Itachi and Kisame's league. Naruto learns that Kakashi was also struck with the same technique Itachi used on Sasuke, and Guy mentions that they need a medical specialist to help, not only with Kakashi and Sasuke, but with Lee as well. Jiraiya tells Guy the person he needed was the one whom they were searching for: the healing specialist, queen of slugs and elixirs, legendary Sannin, and failed gambler, Tsunade.",
+          "arc": {
+            "name": "Search For Tsunade",
+            "description": "Search for Tsunade is an arc from Part I of the series. This arc sees the first appearance of Akatsuki as well as the competing attempts of Jiraiya and Orochimaru to recruit Tsunade. It spans through volumes 16 to 19, or more specifically, covers chapters 139 to 171 of the manga and episodes 81 to 100 of the Naruto anime. This arc is preceded by the Konoha Crush. In the manga, it is followed by the Sasuke Recovery Mission, while in the anime, it is followed by the Land of Tea Escort Mission."
+          }
+        }
+      ]
+    }
+  ]
+}
