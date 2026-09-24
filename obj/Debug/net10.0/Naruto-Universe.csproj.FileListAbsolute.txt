@@ -255,3 +255,4 @@
 /Users/seanveal/Documents/NarutoUniverse-API/obj/Debug/net10.0/ref/Naruto-Universe.dll
 /Users/seanveal/Documents/NarutoUniverse-API/bin/Debug/net10.0/JsonFiles/MightGuy.json
 /Users/seanveal/Documents/NarutoUniverse-API/bin/Debug/net10.0/JsonFiles/TenTen.json
+/Users/seanveal/Documents/NarutoUniverse-API/bin/Debug/net10.0/Scalar.AspNetCore.dll

@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Naruto_Universe.Exception;
+namespace Naruto_Universe.Exceptions;
 
 public class GlobalExceptionHandler: IExceptionHandler
 {
