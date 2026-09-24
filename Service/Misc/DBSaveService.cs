@@ -34,7 +34,8 @@ public class DBSaveService: IDBSaveService
         var country = await BuildCountry(characterFile.NVillageFile?.NCountryFile);
         var village = await BuildVillage(characterFile.NVillageFile, country);
         var characterMediaList = await BuildDebutList(characterFile.Debuts);
-        var character = characterFile.ToNCharacter(village);
+        var chakraNaturesList = await BuildChakraNaturesList(characterFile.ChakraNatures);
+        var character = characterFile.ToNCharacter(village, chakraNaturesList);
         character.MediaList = characterMediaList;
         foreach (var jutsuFile in jutsuFiles)
         {
@@ -62,6 +63,32 @@ public class DBSaveService: IDBSaveService
         await _dbContext.NCharacters.AddAsync(character);
         _logger.LogInformation("Saving all changes");
         await _dbContext.SaveChangesAsync();
+    }
+
+    private async Task<List<NChakraNature>> BuildChakraNaturesList(List<NChakraNatureFile> chakraNatureFiles)
+    {
+        var chakraNatures = new List<NChakraNature>();
+        _logger.LogInformation("Building Chakra Nature List");
+        foreach (var chakraNature in chakraNatureFiles)
+        {
+            var existingChakraNature =
+                await _dbContext.NChakraNatures.FirstOrDefaultAsync(c =>
+                    c.Name.ToLower().Equals(chakraNature.Name.ToLower()));
+            if (existingChakraNature is not null)
+            {
+                chakraNatures.Add(existingChakraNature);
+            }
+            else
+            {
+                _logger.LogInformation($"Adding {chakraNature.Name} to DB");
+                var createdChakraNature = chakraNature.ToNChakraNature();
+                await _dbContext.NChakraNatures.AddAsync(createdChakraNature);
+                await  _dbContext.SaveChangesAsync();
+                chakraNatures.Add(createdChakraNature);
+            }
+        }
+
+        return chakraNatures;
     }
 
     private async Task<NVillage> BuildVillage(NVillageFile? nvillageFile, NCountry country)

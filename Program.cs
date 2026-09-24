@@ -1,8 +1,11 @@
 using Microsoft.EntityFrameworkCore;
 using Naruto_Universe.Data;
+using Naruto_Universe.Exception;
 using Naruto_Universe.Service.Misc;
 
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddExceptionHandler<GlobalExceptionHandler>();
 
 // Add services to the container.
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
@@ -37,5 +40,6 @@ async Task SeedDatabase()
 }
 
 app.UseHttpsRedirection();
+app.MapControllers();
 
 app.Run();
