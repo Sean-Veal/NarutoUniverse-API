@@ -1,8 +1,9 @@
 using Naruto_Universe.Model.DbEntity;
+using Naruto_Universe.Model.Response;
 
 namespace Naruto_Universe.Service;
 
 public interface ICharacterService
 {
-    Task<NCharacter> GetByIdAsync(int id);
+    Task<NCharacterResponse> GetByIdAsync(int id);
 }

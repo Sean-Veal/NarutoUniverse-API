@@ -502,7 +502,7 @@
       "Newtonsoft.Json/13.0.4": {
         "type": "package",
         "compile": {
-          "lib/net6.0/_._": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         },
@@ -541,6 +541,31 @@
           "lib/net10.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "RiskFirst.Hateoas/3.1.1": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.1",
+          "RiskFirst.Hateoas.Models": "3.1.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/RiskFirst.Hateoas.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/RiskFirst.Hateoas.dll": {}
+        }
+      },
+      "RiskFirst.Hateoas.Models/3.1.1": {
+        "type": "package",
+        "dependencies": {
+          "newtonsoft.json": "12.0.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/RiskFirst.Hateoas.Models.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/RiskFirst.Hateoas.Models.dll": {}
         }
       },
       "Scalar.AspNetCore/2.17.8": {
@@ -2027,6 +2052,32 @@
         "postgresql.png"
       ]
     },
+    "RiskFirst.Hateoas/3.1.1": {
+      "sha512": "RW4VLSSSHNp8+tJG8HZSyUpqZZXtWejEyfKYsOgxxvoK87NW409z7hqXTBeYiwaedn1WTIHH6Y8Ea74nNet8DA==",
+      "type": "package",
+      "path": "riskfirst.hateoas/3.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net461/RiskFirst.Hateoas.dll",
+        "lib/netstandard2.0/RiskFirst.Hateoas.dll",
+        "riskfirst.hateoas.3.1.1.nupkg.sha512",
+        "riskfirst.hateoas.nuspec"
+      ]
+    },
+    "RiskFirst.Hateoas.Models/3.1.1": {
+      "sha512": "wUghbCCbhPcuDXLS6WA9Ifbm+ypt/TTMAVHaTEjVZVgImPCFI/PqdG9NXH62khIAFMN/IvHeRqralg78U0LoDQ==",
+      "type": "package",
+      "path": "riskfirst.hateoas.models/3.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net461/RiskFirst.Hateoas.Models.dll",
+        "lib/netstandard2.0/RiskFirst.Hateoas.Models.dll",
+        "riskfirst.hateoas.models.3.1.1.nupkg.sha512",
+        "riskfirst.hateoas.models.nuspec"
+      ]
+    },
     "Scalar.AspNetCore/2.17.8": {
       "sha512": "KboA9Qm60RiikrXQ28EzUSevksNDPhRV/jTAGEw9vbo8VAw+JFXdNm9vlOtFHwptp5yCHHaupTCIMCbT/EbiiQ==",
       "type": "package",
@@ -2238,6 +2289,7 @@
       "Microsoft.AspNetCore.OpenApi >= 10.0.8",
       "Microsoft.EntityFrameworkCore.Design >= 10.0.12",
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 10.0.3",
+      "RiskFirst.Hateoas >= 3.1.1",
       "Scalar.AspNetCore >= 2.17.8"
     ]
   },
@@ -2299,6 +2351,10 @@
           "Npgsql.EntityFrameworkCore.PostgreSQL": {
             "target": "Package",
             "version": "[10.0.3, )"
+          },
+          "RiskFirst.Hateoas": {
+            "target": "Package",
+            "version": "[3.1.1, )"
           },
           "Scalar.AspNetCore": {
             "target": "Package",

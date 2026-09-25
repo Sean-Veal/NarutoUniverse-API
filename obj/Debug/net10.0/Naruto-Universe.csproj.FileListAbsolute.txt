@@ -256,3 +256,5 @@
 /Users/seanveal/Documents/NarutoUniverse-API/bin/Debug/net10.0/JsonFiles/MightGuy.json
 /Users/seanveal/Documents/NarutoUniverse-API/bin/Debug/net10.0/JsonFiles/TenTen.json
 /Users/seanveal/Documents/NarutoUniverse-API/bin/Debug/net10.0/Scalar.AspNetCore.dll
+/Users/seanveal/Documents/NarutoUniverse-API/bin/Debug/net10.0/RiskFirst.Hateoas.dll
+/Users/seanveal/Documents/NarutoUniverse-API/bin/Debug/net10.0/RiskFirst.Hateoas.Models.dll

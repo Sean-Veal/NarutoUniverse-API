@@ -3,9 +3,9 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Naruto_Universe.Exceptions;
 
-public class GlobalExceptionHandler: IExceptionHandler
+public class GlobalExceptionHandler(ILogger<GlobalExceptionHandler> logger): IExceptionHandler
 {
-    public async ValueTask<bool> TryHandleAsync(HttpContext httpContext, System.Exception exception, CancellationToken cancellationToken)
+    public async ValueTask<bool> TryHandleAsync(HttpContext httpContext, Exception exception, CancellationToken cancellationToken)
     {
         ProblemDetails problemDetails;
         if (exception is ApplicationException applicationException)
@@ -19,11 +19,12 @@ public class GlobalExceptionHandler: IExceptionHandler
         }
         else
         {
+            logger.LogError(exception, exception.Message);
             problemDetails = new ProblemDetails
             {
                 Status = 500,
                 Title = "Internal Server Error",
-                Detail = exception.Message
+                Detail = "An Unexpected Error has Occurred."
             };
         }
 

@@ -9,6 +9,7 @@ public class NCharacter
     public int Id { get; init; }
     [StringLength(1000)]
     public string Name { get; init; } = string.Empty;
+    public string Description { get; init; } = string.Empty;
     public int Age { get; init; }
     public NGender Gender { get; init; }
     public NRank? Rank { get; init; }

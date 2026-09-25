@@ -7,6 +7,12 @@ namespace Naruto_Universe.Controller;
 [Route("api/characters")]
 public class CharacterController(ICharacterService characterService): ControllerBase
 {
+    [HttpGet(Name = "GetAllCharacters")]
+    public async Task<IActionResult> GetAllCharacters()
+    {
+        return Ok();
+    }
+
     [HttpGet("{id:int}",Name = "GetCharacterById")]
     public async Task<IActionResult> GetById([FromRoute] int id)
     {

@@ -11,6 +11,7 @@
           "Microsoft.AspNetCore.OpenApi": "10.0.8",
           "Microsoft.EntityFrameworkCore.Design": "10.0.12",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "10.0.3",
+          "RiskFirst.Hateoas": "3.1.1",
           "Scalar.AspNetCore": "2.17.8"
         },
         "runtime": {
@@ -429,6 +430,29 @@
           }
         }
       },
+      "RiskFirst.Hateoas/3.1.1": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.4",
+          "RiskFirst.Hateoas.Models": "3.1.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/RiskFirst.Hateoas.dll": {
+            "assemblyVersion": "3.1.1.0",
+            "fileVersion": "3.1.1.0"
+          }
+        }
+      },
+      "RiskFirst.Hateoas.Models/3.1.1": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.4"
+        },
+        "runtime": {
+          "lib/netstandard2.0/RiskFirst.Hateoas.Models.dll": {
+            "assemblyVersion": "3.1.1.0",
+            "fileVersion": "3.1.1.0"
+          }
+        }
+      },
       "Scalar.AspNetCore/2.17.8": {
         "runtime": {
           "lib/net10.0/Scalar.AspNetCore.dll": {
@@ -645,6 +669,20 @@
       "sha512": "sha512-IPGrrZnRkuW7OlHDhUESZz4G5DLkW7Nej/O3Cx+0iTsgyU5XJxBgpsvTHLloo3WWuAKKbDHXBvWPVkX1deRh1Q==",
       "path": "npgsql.entityframeworkcore.postgresql/10.0.3",
       "hashPath": "npgsql.entityframeworkcore.postgresql.10.0.3.nupkg.sha512"
+    },
+    "RiskFirst.Hateoas/3.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RW4VLSSSHNp8+tJG8HZSyUpqZZXtWejEyfKYsOgxxvoK87NW409z7hqXTBeYiwaedn1WTIHH6Y8Ea74nNet8DA==",
+      "path": "riskfirst.hateoas/3.1.1",
+      "hashPath": "riskfirst.hateoas.3.1.1.nupkg.sha512"
+    },
+    "RiskFirst.Hateoas.Models/3.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wUghbCCbhPcuDXLS6WA9Ifbm+ypt/TTMAVHaTEjVZVgImPCFI/PqdG9NXH62khIAFMN/IvHeRqralg78U0LoDQ==",
+      "path": "riskfirst.hateoas.models/3.1.1",
+      "hashPath": "riskfirst.hateoas.models.3.1.1.nupkg.sha512"
     },
     "Scalar.AspNetCore/2.17.8": {
       "type": "package",
